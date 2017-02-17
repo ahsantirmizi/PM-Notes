@@ -1,0 +1,13 @@
+Pay back period:the length of time required for an investment to recover its initial outlay in 
+terms of profits or savings
+
+Internal rate of return (IRR) is a metric used in capital budgeting measuring the profitability 
+of potential investments. Internal rate of return is a discount rate that makes the net present 
+value (NPV) of all cash flows from a particular project equal to zero
+
+ROI is usually expressed as a percentage and is typically used for personal financial decisions, 
+to compare a company's profitability or to compare the efficiency of different investments. The 
+return on investment formula is: ROI = (Net Profit / Cost of Investment) x 100.
+
+NET PRESENT VALUE, the value in the present of a sum of money, in contrast to some future value 
+it will have when it has been invested at compound interest.

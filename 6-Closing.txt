@@ -1,0 +1,116 @@
+**********************************close Project or Phase
+process of finalizing all activities across all of the Project Management Process groups to formally complete the project or phase.
+Formal way of finalizing the activities among process group 
+*Project or Phase can be closed  
+
+****Project or phase  Completion:
+*PM measures project scope against PM Plan 
+*Review all prior information from the previous phases closure
+*PM reviews the scope baseline to ensure completion before considering the project closed.
+*Engagement of ALL proper stakeholders in the process.
+
+****Project Termination:
+PM investigate and document the reason for termination by following the procedures. 
+
+
+********PM responosibility
+
+* Actions and activities necessary to satisfy completion or exit criteria for the phase or project
+* Actions and activities necessary to 
+1.transfer the project’s products, services, or results to the next phase or to production and/or operations
+
+* Activities needed to 
+1.collect project or phase records, 
+2.audit project success or failure, 
+3.gather lessons learned and archive project information for future use by the organization.
+
+
+
+KEY BENEFIT
+
+*Lessons learned
+*The formal ending of project work
+*Release of organization resources to pursue new endeavors
+
+
+***************************************INPUT
+ 1 Project management plan 
+		
+ 2 Accepted deliverables
+	*Approved product specifications
+	*Delivery reciept
+		1.Confirmation of the delivery.
+	*Work performance Document(Contains work performance  Information )
+		1.Percent of work complete
+		2.Deliverable status
+		3.Technical performance measurement
+		4.Actual start and finish dates of Scheduled activities
+		5.No of Change request
+		6.Defects
+		7.Cost incurred to date
+
+For Terminated Projects:
+	*Partial or interim deliverables can also be included for phase
+
+ 3 Organizational process assets 
+	*administrative procedures, 
+	*project audits, 
+	*project evaluations, and 
+	*transition criteria
+
+  Historical information and lessons learned knowledge base (e.g., project records and documents, all 
+project closure information and documentation, information about both the results of previous project 
+selection decisions and previous project performance information, and information from risk management 
+activities).
+	
+
+***************************************Tools and Techiniques
+
+ 1 Expert judgment
+	-performing administrative closure activities. These experts ensure the project or phase closure is performed to the appropriate standards. Expertise is available from many sources, including but not limited to
+	 *Other project managers within the organization,
+	 *Project management office (PMO), and
+	 *Professional and technical associations.
+ 2 Analytical techniques
+	Analytical techniques are applied in project management to forecast potential outcomes based on possible variations of project or environmental variables and their relationships with other variables.
+	*Trend Anaysis
+		Trend analysis is the practice of collecting information and attempting to spot a pattern, or trend. The practice of forcasting the outcome of project with different project variables and env variables 
+***Forecasting of project outcome with cost, budget, time, Scope.
+	*Regression Analysis
+	In statistical modeling, regression analysis is a statistical process for estimating the relationships among variables
+
+*****Effect of fertilizer on plant growth
+In a study measuring the influence of different quantities of fertilizer on plant growth, the independent variable would be the amount of fertilizer used. The dependent variable would be the growth in height or mass of the plant. The controlled variables would be the type of plant, the type of fertilizer, the amount of sunlight the plant gets, the size of the pots, etc
+		
+ 3 Meetings
+
+***************************************Output
+
+ 1 Final product, service, or result transition
+ 2 Organizational process assets updates
+
+
+
+**************************************************Close procurement
+
+Close Procurements is the process of completing each procurement
+
+Key benefit
+The key benefit of this process is that it documents agreements and related documentation for future reference.
+
+INPUT
+.1 Project management plan
+.2 Procurement documents
+
+TOOLS AND TECHNIQUES
+
+1 Procurement audits
+.2 Procurement negotiations
+.3 Records management system
+
+Output
+
+.1 Closed procurements
+.2 Organizational process  
+ assets updates
+

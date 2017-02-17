@@ -1,0 +1,208 @@
+CONTRACT  / AGREEMENT
+
+
+Contract:
+-A contract is a mutually binding agreement that obligates the seller to provide the specified product 
+or service or result and obligates the buyer to pay for it.
+-Legal relationship between the entities.
+-is a type of agreement
+-Enforce by Law
+-Written or verbal
+
+
+
+Agreement:
+Any document or communication that defines the initial intentions of a project. This can take the 
+form of a contract, memorandum of understanding (MOU), letters of agreement, verbal agreements, email, etc.
+
+-Understanding between two parties.
+-Expression of Intentions
+
+Examples:
+-PM Plan
+-Project Charter
+-Memo
+-letters of agreement, 
+-verbal agreements, 
+-email, 
+-etc.
+
+
+****************************************************************************************************************
+
+BUYER / SELLER
+
+SELLER
+The Company or organization who provides serivces, goods can be called SELLER or
+"contractor"
+"Supplier"
+"Designer"
+"Sub contractor"
+"Vendor"
+
+
+The Company or organization who purchases serivces, goods can be called BUYER
+
+**************************************************************************************************************** 
+
+
+failure with INTERNAL AGREEMENT can be handle thorugh conversational while breaching with CONTRACT will be handled through written legal action.
+
+
+
+PROCUREMENT
+ 
+Procurement is a  formal process to obtain services, product goods.
+
+Procurement department handles procurements in the organization
+
+Following things are needed for managing procurement. 
+-Legal Knowledge
+-Negotiation skills
+-Procement processes
+
+Project Manager will not be responsible of Managing Procurements, but he needs following things
+- understand the activities of Procurements
+- provide necassary knowledge to the Procurement department.
+
+
+**************************************************************************************************************** 
+**************************************************************************************************************** 
+
+Role of project Manager in Procurement Management.
+
+-Must understand the Procument process flow
+-Must understand and knowledge of CONTRACT(S).
+-Make sure Procurement SOW is in the CONTRACT(S).
+-Project Manager from both Parties must be included in the Bidding and Proposal Meeting.
+-Fullfil the needs of procurement team
+-Provide WBS to the procurement team.
+-Managing risk and incorporate into the risk reister and CONTRACT, 
+-Manage cost for all activites while managing the procurement project.
+-Identify the Start and end date and incorporate into Project schedule.
+-Managing communication between the internal and external stakeholders 
+-Be present in Negotiations and making relation appropriate among the internal and external stakeholder
+-Proper change Management
+-PM must be responsible of making the progress of the project smooth by applying his/her skills, WORK DONE ON TIME. 
+
+Procurement Manager is respobsible for managing, creating procurements
+- Deciding what type of contract should be used.
+
+
+PROCUREMENT DOCUMENTS:
+
+
+Example of Procurement documents
+-RFP request for proposal
+-IFB Invitation for BID
+-RFQ Request for Quotation
+
+
+-For Large projects, organization outsourced all work which requires multiple skills and department to accomplosh
+
+-For Small or medium sized projects, organization outsourced work for particular area.
+
+****************************************************************************************************************
+****************************************************************************************************************
+**************************************MOST IMPORTANT POINTS*****************************************************
+****************************************************************************************************************
+****************************************************************************************************************
+
+CONTRACTS
+-Correspondence, clarification and Notification should be formal written communication.
+-PM can take follow up of written communication VERBALLY.
+-In case of breaching the contract any arbitration, mediation or litigation can be taken.
+-All required procumenet work have to be mentioned in the CONTRACT.
+-Required Procurement work in the CONTRACTS needs to be APPROVED from both parties BUYER / SELLER.
+-For any Change, a change order needs to be issued to the CONTRACT.
+-ALL CHANGES must be approved in written.
+-Most Government use court system for any dispute resolution.
+
+****************************************************************************************************************
+****************************************************************************************************************
+****************************************************************************************************************
+****************************************************************************************************************
+****************************************************************************************************************
+
+Conduct Procurement Flow: 
+01. PM analyse Make or Buy Analysis for goods, services. 
+02. Project Manager analyze/shares the WBS (Activities) and list the goods, services requires.  
+02. Project Manager shares Procurement scope of statement to Procument Manager.
+03. Procurement Manager combined procurement statement of work with appropriate contract type and shape that information into Procurement document RFP,RFQ,iFB
+04. The documents are sent to Prospective sellers.
+05. Sellers Analyze and study the procurement documents and Contracts.
+06. If any Ambiguity found, Seller submitting question related to procurement document or contract.
+07. If Interested, Seller submit there proposals/Bids to the buyer.
+08. Buyers analyze the Prospective seller's proposals, and Rank them and send Invitation for Bidder Conferrence/ Pre-proposal Meeting. 
+09. Questions answer session between the Buyer and possibly multiple sellers gets conducted.
+10. Both Parties try to get full understanding of each other and tries to indentify the Risk associated with this procurement project.
+11. Prospective sellers do presentations.
+12. Buyer negotiate with the seller if presentation does not add enough value. 
+13. Buyers and Sellers agree on agreed upon things
+14. All Terms and conditions are proposed in Contract.
+15. At the end of the Negotiations, one or more sellers are selected and contract are signed by both parties.
+
+
+
+IMPORTANT FACT: Private company may buy from anyone they choose, there is only one potential seller(a non competitive bidding situation).
+
+
+****************************************************************************************************************
+
+MANAGED and CONTROL PROCUREMENT:
+
+01.Project manager is responsible for Managing communication and resolving questions asked by sellers related to contract
+02.Procurement document helps PM to resolve these issues.
+
+Important Questions while handling the change:
+How change should be submitted
+Who will review the change
+Who has athority to approve 
+What the impact on Scope, cost, schedule
+
+
+
+****************************************************************************************************************
+
+CLOSE PROCUREMENT:
+
+01.Once the procurement is complete, procurement is closed
+02.Audit takes place.
+03.Lesson learned will be update.
+04.Final payment is released
+05.Multiple procurement can be closed
+06.Can be closed on Phase closure or project closure
+
+
+***************************************************************************************************************
+
+Contract is quite formal in USA
+Building and measuring relationship is more prior than following contract in regions other than USA.
+
+
+
+Centralized Contracting and Decentralized Contracting
+
+***************************************************************************************************************
+CENTRALIZED:
+
+Matrix environment.
+-One Procurement Department. 
+-Procurement Manager has full authority in the department.
+-Manager Can handle many Procurements in the Organization.
+-Clear path for Procurement manager
+-Procurement Manager is the Head and taking decision
+-Procurement Manager has domain experties
+-All focusing on one procurements(Respective Procurements)
+-Manager share Lesson learned with team
+
+
+DECENTRALIZED:
+dd
+-Projectized organization
+-Procurement member is assigned to a one or multiple projects.
+-NO Clear path for Procurement manager
+-Procurement Manager has to report to Project manager
+-Proper Trainings required to achieve quality
+-Procurement Manager jack of all and king of None
+ 

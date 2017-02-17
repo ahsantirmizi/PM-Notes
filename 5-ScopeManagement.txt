@@ -1,0 +1,196 @@
+Scope Management Plan
+
+How scope will be defined
+How Scope will be decomposed
+How Scope will be Validated (Formal Customer Acceptance)
+Hpw Scope changes, scope measurement will be done.
+
+.1 Inputs
+ .1 Project management plan
+	-Approved Subsidiary Plans
+ .2 Project charter
+	-High level requirements
+	-Statement of Work
+	-Product characterstics
+ .3 Enterprise environmental factors
+	-Organization Culture
+ .4 Organizational process assets
+.2 Tools & Techniques
+ .1 Expert judgment
+	-Senior managment
+	-Training
+ .2 Meetings
+	-Meetings team (May include all stakeholder)
+ .3 Outputs
+ .1 Scope management plan
+	How scope will be defined
+	How Scope will be decomposed
+	How Scope will be Validated (Formal Customer Acceptance)
+	How Scope changes, scope measurement will be done.
+ .2 Requirements management plan
+	How requirement will be Identify, Tracked, Traced & reported.
+	How changes will be initiated, Traced,Identify the impact of the change, Authorization level required to approve this change
+	How to prioritizes the requirements.
+
+Requirement 
+Requirements include conditions or capabilities that are to be met by the project or present in the product, service, or result to satisfy an agreement or other formally imposed specification
+
+Collect Requirement
+Collect Requirements is the process of determining, documenting, and managing stakeholder needs and requirements to meet project objectives
+
+Types of Requirements
+	-Business requirement
+	-Solution Requirements
+	-Stakeholder requirements
+	-Transition Requirements
+	-Project Requirements
+	-Quality Requirements
+
+.1 Inputs
+ .1 Scope management plan
+	Same as Above	
+ .2 Requirements management plan
+	Same as Above
+ .3 Stakeholder management plan
+	- High level Stakeholder Requirements.
+	- Stakeholder Engagement level from Stakeholder Engagement Assessment Matrix.
+ .4 Project charter
+	- High level Requirements
+	- SOW
+ .5 Stakeholder register
+	- Details related to Stakeholder i.e Name, Designation, Department, Expertise.
+	- Power Interest Grid
+.2 Tools & Techniques
+ .1 Interviews
+	-Formal/ Informal Approach
+	-Directly to the person.
+	-One on One or One to Group
+	-Helps in identifying Confidential information.	
+ .2 Focus groups
+	-prequalified stakeholders and subject matter experts to learn about their expectations and attitudes about a proposed product, service, or result.
+ .3 Facilitated workshops
+	-Requirement gathering technique
+	-Group of Cross functional team.
+	-it helps to reconcile Stakeholder difference of opinion.
+	-JAD (Joint Application Development) in IT.
+	-QFD (Quality Function Deploymnets) in Manufacturing
+	- VOC  voice of customer is a requirement.
+ .4 Group creativity techniques
+	-Brain storming
+		Generating ideas from the group of people or stakeholder.
+		Basis for Other group creativity techniques
+	-nominal group technique
+		Using results of brain storming, Requirement can be ranked on the basis of voting with leading group.
+	-Idea/mind mapping.
+		
+	-Affinity diagram.
+		- Large number of ideas are posted on the wall.
+	-Multi Criteria Decisions 
+ .5 Group decision-making 
+	-Unanimity:Delphi techiniue
+		Every one agrees on a single decision.
+		Responses are desried from a group of experts.
+		Responses kept secret 
+	-Plurality
+	-Majority
+	-
+   techniques
+ .6 Questionnaires and surveys
+	-When Large number of respondent, and a general public item is going to be development i.e browser etc.
+	-When audience are geographically dispersed.
+	-When statistical Information is needed.
+ .7 Observations
+	-"Job Shadowing"
+	-Requirement collector goes to functioning department and observe the work.
+	- It is particularly helpful for detailed processes
+	- Useful when customer seems reluctant to articulate requirement.
+ .8 Prototypes
+	-Develop a working model 
+	-Mitigate risk
+	-Story Boarding
+	-Supports progressive elaboration
+ .9 Benchmarking
+	-Benchmarking involves comparing actual or planned practices
+	-provide a basis for measuring performance.
+ .10 Context diagrams
+ .11 Document analysis
+ 
+
+.3 Outputs
+ .1 Requirements documentation
+ .2 Requirements traceability  
+  matrix
+.
+Define Scope
+
+.1 Inputs
+ .1 Scope management plan
+ .2 Project charter
+ .3 Requirements documentation
+ .4 Organizational process assets
+.2 Tools & Techniques
+ .1 Expert judgment
+ .2 Product analysis
+ .3 Alternatives generation
+ .4 Facilitated workshops
+ .3 Outputs
+ .1 Project scope statement
+ .2  Project documents updates
+
+Create WBS
+
+.1 Inputs
+ .1 Scope management plan
+ .2 Project scope statement
+ .3 Requirements documentation
+ .4 Enterprise environmental   
+   factors
+ .5 Organizational process 
+  assets
+.2 Tools & Techniques
+ .1 Decomposition
+ .2 Expert judgment
+.3 Outputs
+ .1 Scope baseline
+ .2 Project documents updates
+
+Validate Scope
+
+.1 Inputs
+ .1 Project management plan
+ .2 Requirements documentation
+ .3 Requirements traceability  
+  matrix
+ .4 Verified deliverables
+ .5 Work performance data
+.2 Tools & Techniques
+ .1 Inspection
+ .2 Group decision-making  
+  techniques
+.3 Outputs
+ .1 Accepted deliverables
+ .2 Change requests
+ .3 Work performance information
+ .4 Project documents updates
+
+
+Control Scope
+
+.1 Inputs
+ .1 Project management plan
+ .2 Requirements documentation
+ .3 Requirements traceability  
+  matrix
+ .4 Work performance data
+ .5 Organizational process assets
+.2 Tools & Techniques
+ .1 Variance analysis
+.3 Outputs
+ .1 Work performance   
+  information
+ .2 Change requests
+ .3 Project management plan  
+  updates
+ .4 Project documents updates
+ .5 Organizational process assets  
+  updates

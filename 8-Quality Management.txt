@@ -1,0 +1,295 @@
+Quality
+The degree to which the project fulfills requirements.
+
+Quality Management
+
+Project Quality Management includes the processes and activities of the performing organization that determine 
+quality policies, objectives, and responsibilities so that the project will satisfy the needs for which it was undertaken.
+
+
+
+-The quality is achieved when project will satisfy the needs for which it was undertaken.
+-It helps policies and procedures to implement, within the project’s context.
+-it supports continuous process improvement for activities and Processes.
+-Addresses the management of the project and the deliverables of the project.
+-Quality measures and techniques are specific to the type of deliverables being produced by the project
+
+-Meeting customer Requirements using Late sitting / overworking may
+-Decreased profit
+-Increase Risk
+-Employee Attrition
+-Errors Rework
+
+-Meeting project schedule objectives by rushing planned quality inspections may
+-Decreased profit
+-Increase Post implementation Risks
+
+****************************************************************************************************************************************************************
+Quality:the degree to which a set of inherent characteristics fulfill requirements
+
+Grade as a design intent is a category or classification assigned to deliverables having the same functional use but different technical characteristics
+**************************************************************************************************************************************************************** 
+
+
+
+Quality of a product does not depand on GRADE.
+
+A product of high grade can have low quality (appropriate for general Purpose)
+A Product of Low quality can have high Grade (Infficient / Infeffective)
+
+
+Precision:Precision is a measure of exactness, little scattered, with minimum deviation
+
+Accuracy is an assessment of correctness.example standard page load time is 1sec, the web page is attempting to get loaded in 1.1 sec
+
+
+
+- Lack of Quality-> increases in Risks-> Rework / failure repair ->Scope Creep-> Schedule Overruns-> Cost overruns
+
+
+
+PLAN QUALITY MANAGEMENT
+
+Plan Quality Management is the process of identifying quality requirements and/or standards for the project and 
+its deliverables, and documenting how the project will demonstrate compliance with relevant quality requirements
+
+-Performed parallel with other plans
+-Iterative
+
+*****************************************************************Quality theorists***********************************************************************************
+
+
+
+Joseph Juran
+	-80/20
+	-"Fitness for use" is a Quality 
+
+W.Edwards Deming 
+	-14 points to QM
+	-Plan Do Check Act "PDCA" is a Quality
+
+Philip Corsby
+	-"Conformance to Requirement"
+	-Emphasizes "Preventation over Inspection"
+	-"Zero Defects"
+	-Cost of poor Quality
+
+
+
+*********************************************************List of Actions required to get ensured  ***************************************************************
+
+
+- Review Project Management Plan specially Scope baseline, Schedule baseline & Cost Baseline.
+- Identify the Standards, Procedures
+- Identify Quality requirement
+- Identify the change of Impact on Quality
+- Identify Documentation and Lesson learned
+- Identify Project Management Activities.
+- Understand Customer's Quality definition
+- Understand Requirements.
+- Identify Quality Metrics
+- Identify level of Quality
+- Identify list of processes that are going to implemented
+- Plan how to improve the processes.
+- Measure performance against standards. 
+
+*******************************************************************Cost of Quality****************************************************************
+
+Cost of Conformance
+	-Preventive Cost
+		-Traning
+		-Documentation
+	-Appraisal Cost
+		-Testing
+		-Inspection
+		-Destructive Testing Loss
+Cost of Non Conformance
+	-Internal Failure
+		-Rework
+		-Scrap
+	-External Failure 
+		-Lost business 
+		-Liabilities
+		-Warrant work
+
+****************************************************************************************************************************************************************
+
+1 Inputs
+ .1 Project management plan
+	-Scope Baseline.
+		-Project Scope statement
+		-WBS 
+		-Wbs Dictionary	
+	-Schedule Baseline
+		-schedule performance measures, 
+		-including start and finish dates
+	-Cost baseline
+		-accepted time interval being used to measure cost performance
+	-Other Management Plans		 	
+ .2 Stakeholder register
+	-Which stakeholder can/may impact  the quality of the product.
+ .3 Risk register
+	-Which threats or opportunities might impact the qualities
+ .4 Requirements documentation
+	-What are the Business requirements,Stakeholder requirements, transition requirements, solution requirements (Functional and Non Functional), project requirements
+ .5 Enterprise environmental  
+  factors
+ .6 Organizational process assets
+
+
+2 Tools & Techniques
+ .1 Cost-benefit analysis
+	-It is a selection method.
+	-What activities are needed to be selected for which the maximum benefit/revenue the project that take out of that.
+	-Less work higher productivity. 
+ .2 Cost of quality
+	-Mentioned earlier
+ .3 Seven basic quality tools
+	-Control charts
+		- Used for checking the process stability or for controlling 
+		- Rule of seven, heutirtic, thumb rule.
+		- Upper and lower limits are identified as levels.
+		- seven **consecutive** point above of below the mean referred as OUT OF CONTROL process else IN CONTROL
+		- Above the upper limit and Below the lower limit refer as OUT OF CONTROL process else IN CONTROL.
+		- For out of control process Special cause / assignable cause is recommended as preventive action.
+	-Flow charts
+		- Process Maps
+		- Branching. decision, parallel processing
+		- Often used in understanding and estimating the COST OF QUALITY
+	-Check Sheets
+		- Tally sheets
+		- Used for collecting data related to the attribute.
+		- used in inspection to identify the defects.
+	-Scatter digram
+		- Relation between variables.
+		- Correlation Chart
+		- Used in estimating and scheduling
+		- Relation between depedant and independent variables.
+		- Regression and Trend line if correlation exist
+	-Parento Chart
+		- 80/20
+		- Veritical bar chart
+		- Identify few sources Which causes most of the problems
+		- prioritized list of Problems.
+		- Left to right (High to low)
+	-Cause effect diagram
+		- Ishikawa / Fishbone
+		- Problem are placed at bone and try to identify the Root causes until
+		- Often used as preventative meaasure
+	-Histograms
+		- Bar chart
+		- SHow statistical distribution
+		- Data dispersion e.g Resource histogram (amount of time that a resource is scheduled to work over a series).
+		- Also used to identify Scehdule and Cost variances and frequency of scope changes.
+ .4 Benchmarking
+		- Compare the performance of the project in development with the past project 
+		- With in or outside the organization
+
+ .5 Design of experiments
+		- identify which variables are important for improving the process.
+		- Fast 
+		- Accurate
+		- E.g particular combination of Paint, matrerial, locks, chip and  joints can create best quality door
+		- Reduces sensitivity
+ .6 Statistical sampling
+		- Staistically measure the quality of the product of the project
+		- measuring the size of 10,000 doors might take too long except using Statistical sampling.
+		- Time taking
+		- Cost risk.
+		-
+ .7 Additional quality planning tools
+		- Brain storming: Idea generating or requirement collection tecnhique in a group
+		- Force field Analysis: These are diagram for and against change
+		- Nominal Group:Ideas generated by lot of groups, then idea fo group with the larger no will be accepted.
+ .8 Meetings
+3 Outputs
+ .1 Quality management plan
+ .2 Process improvement plan
+		-Process bounderies
+			-Process start and end
+			-purpose
+			-owner
+			-stakeholders.
+		-Process Configuration
+			-Graphic depiction of processes
+		-Process Metrics
+		-Targets for improved performance
+ .3 Quality metrics
+	-No  of Bugs
+	-Variances in Baselines
+	-Variances in Planned Resource utilization
+	-Planned wieght of the Product vs Actual Wieght
+	-No of Items That fails inspection
+	-Defect rate 
+	-Failure rate
+ .4 Quality checklists
+	-Set of required steps being performed
+	-component specific	
+ .5 Project documents updates
+	-Stakeholder register
+	-Responsibility assignment matrix
+	-WBS and WBS Dictionary
+
+
+
+
+
+
+PERFORM QUALITY ASSURANCE
+Perform Quality Assurance is the process of auditing the quality requirements and the results from quality control measurements to ensure that appropriate quality standards and operational definitions are used. 
+
+
+.1 Inputs
+ .1 Quality management plan
+ .2 Process improvement plan
+ .3 Quality metrics
+ .4 Quality control measurements
+ .5 Project documents
+
+.2 Tools & Techniques
+ .1 Quality management and  control tools
+ .2 Quality audits
+ .3 Process analysis
+
+.3 Outputs
+
+ .1 Change requests
+ .2 Project management plan updates
+ .3 Project documents updates
+ .4 Organizational process assets  
+  updates
+.
+
+
+
+CONTROL QUALITY
+
+.1 Inputs
+ .1 Project management plan
+ .2 Quality metrics
+ .3 Quality checklists
+ .4 Work performance data
+ .5 Approved change requests
+ .6 Deliverables
+ .7 Project documents
+ .8 Organizational process assets
+.2 Tools & Techniques
+ .1 Seven basic quality tools
+ .2 Statistical sampling
+ .3 Inspection
+ .4 Approved change requests  
+  review
+.3 Outputs
+ .1 Quality control measurements
+ .2 Validated changes
+ .3 Validated deliverables
+ .4 Work performance information
+ .5 Change requests
+ .6 Project management plan  
+  updates
+ .7 Project documents updates
+ .8 Organizational process assets  
+  updates
+
+
+

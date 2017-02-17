@@ -1,0 +1,502 @@
+****************************************Planning Activities***********************************
+
+Planning is very vital
+The problem with our society is that we just do things without consideration of planning
+Its better to spend time on planning, 
+Planning depands on the size of the task or process or project 
+
+What to plan
+How much planning is required
+How much project management process documents are required ? i.e risk management, scope management document, scehdule,time,cost, HRM,Stakeholder etc
+
+1.Identify life cycle
+2.How much project management process documents are required 
+3.Collect project requirements Using Requirement Management Document
+4.Finalizing the scope of the project using Scope management Document
+5.Create work breakdown structure (Output Scope Baseline)
+6.Identify work packages
+7.Decompose Work Packages into activities
+8.Seqeuncing and Identify Milestone,Network Diagram (Critical Path), Fragmented Diagram
+9.Estimate resources (work resource, material resource)
+10.Estimate Cost and Duration
+11.Identify Risk using risk management document
+12Finalize project Schedule Baseline using Time Management Document
+13.Finalize Cost Baseline using cost management document
+
+
+****************************************Baseline**********************************************
+
+Baseline is the value or condition against which all future measurements will be compared. 
+The baseline is a point of reference
+
+*****************************performance measurement baseline*********************************
+
+In project management there are three baselines – schedule baseline, cost baseline and scope baseline. The combination of all three baselines is referred to as the performance measurement baseline.
+
+
+***************************** baseline Types ********************************
+
+Scope Baseline is created with the help of Scope statement, WBS and WBS dictionary, Scope baseline-Contains the predefined scales which contain project scope or features to be produced and during execution project manager has to measure and compare the project scope vs actual scope
+
+
+Cost baseline-Contains the predefined scales which contain expected cost.
+Schedule baseline-Contains the predefined scales which contain expected schedule
+
+******************************Project Management Plan******************************************
+
+Project Management Plan is a document or a file which contains subsidiary documents
+Guides how to plan, execute, control and close
+Its an output of "Develop Project Management Plan Process"
+
+Inputs:
+Project Charter.
+Output from other processes (req man doc).
+Organizational Process assets.
+Enterprise Environmantal factors
+
+Exist in INTEGRATION MANAGEMENT PROCESS KNOWLEDGE AREA
+
+Tools 
+expert Judgement 
+Facilitation Techniques
+
+
+Category #1 Baselines Scope, cost, Schedule
+
+Category #2 
+Process document 
+Req Managmenet plan, how to review requirement, how to define requirement, how to verify requirement, How to change requirement
+Scope Management, 
+Schedule management plan, How to create activities, how to sequence activities, how to make a milestone
+Cost Management,
+risk management, what is high risk, low risk
+Process improvement
+CHangement management,
+Configuration managemnent plan
+
+Category #3
+HYbrid Document (Contains information of project and process)
+
+QM plan: 
+*how to define quality->identify Quality Standards & Expectation, Define Customer & project goals, metrics
+*How to measure project quality->
+*how to analyze, How to improve->
+*How to Control Project quality->
+
+
+HRM plan: organization chart, Staffing, 
+Communication Management plan
+Procurement Management Plan
+Stakeholder Management plan
+
+******************************Project Management plan document vs project document***************
+
+Project Management Plan document tells how to do things in the project 
+Process oriented
+*****EXAMPLE******Process improvement
+*****EXAMPLE******CHangement management
+*****EXAMPLE******Configuration managemnent plan
+
+
+Project document tells what to do in project 
+*****EXAMPLE******i.e requirement document is an example of project document.
+*****EXAMPLE******Scope management plan: how to define Activity, how to manage activity list, how to sequence activity list, how to make milestone. etc but actual activities are in documents which are project documents.
+
+*********************************Requirements*************************************
+Requirement
+a requirement is a singular,unique, not vague documented physical and functional need that a particular design, product or process must be able to perform.
+
+Requirement Management:
+process of documenting, analyzing, tracing, prioritizing and agreeing on requirements and then controlling change and communicating to relevant stakeholders.
+
+Requirement Manager:
+
+
+
+
+********************************************************************************************************
+********************************************************************************************************
+********************************************************************************************************
+*********************************************Scope******************************************************
+********************************************************************************************************
+********************************************************************************************************
+********************************************************************************************************
+
+
+
+The sum of product, services and results deliver or provided as a project is known as scope.
+scope is the part of planning that involves determining and documenting a list of specific project goals, deliverables, features, functions, tasks, deadlines, and ultimately costs. 
+
+
+***************Types of scope***************
+
+**********Project scope**********
+
+The process required to deliver product, service or result.e.f WBS, WBS dictionary
+predetermined, predfned and document list of process involve in achieving the project goals is a project scope.
+It focuses on "HOW"
+Delivery oriented, objective oriented
+
+**********Product scope**********
+
+The actual features and functions that characterizes the product, service or result
+it focuses on "WHAT"
+Feature or function oriented
+
+Both must have to be managed parallely in a project.
+
+
+Migration of TRG office from FTC to Center Point is a program
+IT Migration is among one of a project in office migration Program.
+*******EXAMPLE******: Product scope is to 
+migrate servers, 
+employee's computer systems, 
+Pabs Telephones, Recks etc
+
+*******EXAMPLE******: Project scope is how to migrate servers i.e. 
+Appropriate time for migration, 
+Medium for migration, 
+Use security, 
+Use shocker support for servers, 
+Support backup, Use Technical staff
+
+
+Provides Guidence and direction of how to define, validate, control Scope throughout the project
+
+*******************************Scope Management Plan*******************************
+Defintion:
+Process of documenting the scope management plan
+
+Benefit
+*describes how the scope will be defined, developed, monitored, controlled, and verified
+*This plan helps reduce the risk of project scope creep.
+
+Cons:
+Ambiguity in scope can create confusion and unnecessary work.
+Incomplete scope may results in cost and schedule overrun.
+
+
+************************************Input**************************************************
+
+
+1.Project Management Plan
+includes all subsidiary plan 
+*Stakeholder Management Plan
+*Communication Management Plan
+*Risk Management Plan
+
+2.Project Charter
+*Product Description
+*High level Scope
+*High level Cost Estimate
+*Duration
+*Assuptions and constraint
+
+3.EEF
+*Organization’s culture,
+*Infrastructure,
+*Personnel administration, and
+*Marketplace conditions
+
+4.OPA
+*Policies and procedures, and
+*Historical information and 
+*lessons learned knowledge base.
+
+
+*****************************Tools and Techniques******************************************
+
+1.Expert judgement
+
+*Input from SME, 
+*Knowledgeable and 
+*experienced parties (PM,PMO,Consultant)
+
+*Expertise may be provided by any group or person with specialized education, knowledge, skill, experience, or training in developing 
+scope management plans.
+
+2.Meeting
+may include the project manager, 
+the project sponsor, 
+selected project team members, 
+selected stakeholders, anyone with responsibility for any of the scope management processes, and others as needed
+
+************************************Output**************************************************
+
+1.Scope Management Plan
+it is an output to the Develop project Management Plan
+
+•	 Process for preparing a detailed project scope statement;
+•	 Process that enables the creation of the WBS from the detailed project scope statement;
+•	 Process that establishes how the WBS will be maintained and approved;
+•	 Process that specifies how formal acceptance of the completed project deliverables will be obtained; and
+•	 Process to control how requests for changes to the detailed project scope statement will be processed. This process is directly linked to the Perform Integrated Change Control process
+
+The scope management plan can be formal or informal, 
+broadly framed or highly detailed, based on the needs of the project
+
+2.Requirement Management Plan
+it tells how requirements will be analyzed, documented, and managed.
+
+COMPONENTS
+*How requirements activities will be 
+	planned, 
+	tracked, and 
+	reported;
+*Configuration management activities such as: 
+	how changes to the product will be initiated, 
+	how impacts will be analyzed, 
+	how they will be traced, 
+	tracked, and 
+	reported, as well as 
+	the authorization levels required to approve these changes;
+
+*Requirements prioritization process;
+*Product metrics that will be used and the rationale for using them; and
+*Traceability structure to reflect which requirement attributes will be captured on the traceability matrix
+
+********************************************************************************************************
+********************************************************************************************************
+**************************requirement Collection********************************************************
+********************************************************************************************************
+********************************************************************************************************
+
+Requirement:
+A condition or capability that is required to be present in a product, service, or result to satisfy a contract or other formally imposed specification.
+
+Collect Requirements:
+it is the process of determining, documenting, and managing stakeholder needs and requirements to meet project objectives
+
+Key Benefit:
+The key benefit of this process is that it provides the basis for defining and managing the project scope including product scope
+
+
+Types of Requirements:
+*Business requirement: higher level needs of organization, why organization do need to develop this project.
+*Stakeholder requirement:Needs of stakeholder or a group of stake holder.
+*Solution requirements(Non technical):Features, function or actual characteristics of project that will meet business and stakeholder requirements.
+  
+	Functional requirements describe the behaviors of the product. Examples include processes, data, and interactions with the product.
+  
+	Nonfunctional requirements supplement functional requirements and describe the environmental conditions or qualities required for the product to be effective. Examples include: reliability, security, performance, safety, level of service, supportability, retention/purge, etc.
+
+*Transition Requirements: how project will be delivered, transition from current state to future state.
+*Project Requirements
+  Project requirements, which describe the actions, processes, or other conditions the project needs to meet.i.e. project manager needs whiteboard demonstration, gotomeeting for meeting, training room with projector.
+*Quality requirements
+  Quality requirements, which capture any condition or criteria needed to validate the successful completion of a project deliverable or fulfillment of other project requirements.
+
+
+INPUT 
+1.SCOPE MANAGEMENT PLAN
+
+*How scope will be define
+*How scope will be Validated
+*How scope will be Control
+
+2.Requirement Management Plan
+
+*How req will be analysed
+*how requirement will be documented
+*How requirement will be track
+*How requirement will be traced
+
+
+3.Stakeholder management plan
+*how to idnetify stakeholder
+*how to categorize stakeholder
+*how to manage stakeholder register
+
+
+4.Project Charter
+*Product Description
+*High level Scope
+*High level Cost Estimate
+*Duration
+*Assuptions and constraint
+
+
+Stakeholder register: 
+Contains the list of stakeholder including client side SH, Project Team.
+Meeting with Stakeholder
+*Identify stakeholder from whom we can collect requirement.
+*Identify StakeHolder requirements
+*how to manage role
+
+
+***********Responsibility*******:
+Validate-Validating the requirements meanings share any formal requirement document to the stakeholder/sponsor of the organization
+determine the requirements of stakeholder
+Document
+Manage
+
+
+
+
+**************Tools and Techniques**************
+
+1. Interview-An interview is a formal or informal approach to elicit information from stakeholders by talking to them directly.
+*May be one on one
+*May be one on group of people
+*Interviewing SME's,executives, Spnosors can aid in identifying the feature and functions.
+*Interviews are also useful for obtaining confidential information.
+
+2. Focus Group- A group of concerned stakeholders (team) who can share their experiences and ideas. 
+DONOT involve irrelevant departmental people.
+prequalified stakeholders and subject matter experts to learn about their expectations and attitudes about a proposed product, service, or result.
+
+
+3. Facilitated workshop - Facilitated workshops are focused sessions that bring key stakeholders together to define product requirements.
+Members from crossfunctional departments sits and collect the requirements.
+JAD-joint application designed/development in Software ind
+QFD-Quality function department in manufacturing
+
+***Example**** refinement in scrum, dev, PMO, Scrum Master, QA sits and refine the items and then estimate the size of the task.
+
+in this customer needs (VOC)-(voice of customers) are collected, sorted and prioritizes.
+
+4. Group creativity Technique 
+	4.1 Brain storming. 
+		A group of stakeholder share their ideas based on the experience and creating ideas to make product effective
+		Identify the problem, Create ideas,Select Idea
+	4.2 Nominal Group-. A technique that enhances brainstorming with a voting process used to rank the most useful ideas for further brainstorming or for prioritization
+	4.3 Idea/Mindmapping-A technique in which ideas created through individual brainstorming sessions are consolidated into a single map to reflect commonality and differences in understanding, and generate new ideas.
+	4.4 Affnity-A technique that allows large numbers of ideas to be classified into groups for review and analysis.(KJ)
+		Record each idea on cards or notes.
+		Look for ideas that seem to be related.
+		Sort cards into groups until all cards have been used.
+		(Used for huge applications with large number of features)
+	4.5 Multicriteria-. A technique that utilizes a decision matrix to provide a systematic analytical approach for establishing criteria, such as risk levels, uncertainty, and valuation, to evaluate and rank many ideas.
+
+5.Group decision making technique-A group decision-making technique is an assessment process having multiple alternatives with an expected outcome in the form of future actions. These techniques can be used to generate, classify, and prioritize product requirements.
+	5.1 Unanimous (100% agreed)
+	5.2 Majority (More than 50 %)
+	5.3 Pluralarity(Major block in a group out of several block)
+	5.4 Dictatorship (individual decision)
+
+6.Questionare & surveys-Questionnaires and surveys are written sets of questions designed to quickly accumulate information from a 
+large number of respondents
+
+
+7.Observations-Observations provide a direct way of viewing individuals in their environment and how they perform their jobs or 
+tasks and carry out processes
+
+8.Prototype (Highlevel sample product)
+9.Bench Marking (compare features of the product with the existed product in the market)
+10.Context diagram (UML, Process diagram ETL, Usecase)
+11.Document Analysis(review business plans, marketing plan, strategy)
+
+**************************Collect requirement Output********************************************
+
+Outputs are
+
+Requirement Documents
+-priorituzing the requirements, 
+-acceptance criteria
+-
+
+Requirement Traceability Matrix
+-Tracking requirement against objective
+
+*************************************SCOPE, Product scope and Project Scope********************************************
+
+Definition:
+Define Scope is the process of developing a detailed description of the project and product.
+
+Benefits 
+The key benefit of this process is that it describes the project, service, or result boundaries by defining which of the requirements collected will be included in and excluded from the project scope.
+
+Define Scope will only have finalized requirements.
+The Define Scope process can be highly iterative.
+a high-level vision will be developed for the overall project, but the detailed scope is determined one iteration at a time and the detailed planning for the 
+next iteration is carried out as work progresses on the current project scope and deliverables
+
+
+Product Scope:
+predetermined, predfned and document list of fetures, deliverable related to product involve in achieving the product goals is a product scope.
+
+INPUT:
+1.Project charter(Business needs, Project High level requirements, objective)
+2.Scope Management Plan (Manging,define,change)
+3.Requirement document
+4.OPA
+
+Tools
+*Expert judgement
+
+*Product Analysis
+
+1.Function Analysis-Analysis of required functionality or feature
+
+2.CBA(Cost Value analysis) or VA(value analysis)->the systematic and critical assessment by an organization of every feature of a product to ensure that its cost is no greater than is necessary to carry out its functions.
+
+3.Quality Function deployment:Facilitated workshop used to determine the critical functionality/characteristics of product.
+the needs of the customers is also known as VOC(voice of customer), the needs are objectively sorted and prioritized and goals are set against them
+user stories are written against them
+as a user<role>, i should be able to achieve (goal), so i can get the benefit and <Motivated>
+
+4.System analysis 
+
+* Alternative Generations-Alternatives generation is a technique used to develop as many potential options as possible in order to identify 
+different approaches to execute and perform the work of the project
+
+* Facilitated workshop
+Demonstration provided by the inhouse SMEs, BA for validating the scope 
+
+***************************************Scope Statement***************************************
+OUTPUT 1
+scope statement (Scope Baseline)
+
+Product scope description: what will be the feature, Signup, login, add, update, view, Backend admin
+
+Project deleiverable:Any unique and verifiable product, result, or capability to perform a service that is required to be produced to complete a process, phase, or project 
+Web application, web pages, DB admin panel.
+
+Project Exclusion: out of scope.
+Acceptance criteria:A set of conditions that is required to be met before deliverables are accepted.
+browser compatible app, performance with in 1-2 seconds.
+
+Project Assumption:assumptions, 
+Project Contraints: we have to live the app at a particular date.
+
+
+OUTPUT 2
+Update project document:
+
+Stakeholder register: any new stakeolder came, so its has  to be registered in the document, roles of stakeholder might have updated
+
+************************************WBS******************************************************
+
+Work Breakdonw Struncture: 
+Create WBS is the process of subdividing project deliverables and project work into smaller, more manageable components
+
+
+Transpose of Scope statement, scope baseline
+does not contain activity 
+100 % rule  
+deleiverable oriented document (based on project scope, product)
+lowest level is work packages.
+
+TOOL AND TECHNIQUE:
+Decomposition:decomposing the hhuge task in to sub deliverables
+Code of identifier: 
+Layers are 0,1,2... n Work packages
+
+Expert Judgement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

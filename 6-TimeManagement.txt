@@ -1,0 +1,266 @@
+Time Management
+
+***********************************************************************************************
+***********************************************************************************************
+***********************************************************************************************
+***********************************Plan Schedule Management************************************
+***********************************************************************************************
+***********************************************************************************************
+***********************************************************************************************
+
+
+6.1   Plan Schedule Management—The process of establishing the policies, procedures, and documentation for planning, developing, managing, executing, and controlling the project schedule.
+
+INPUT 
+	1.PMP
+		Scope Baseline, WBS, 
+		duration estimated and schedule related cost, 
+		risk and communication from PMP is used
+	2.Project Charter
+		Summary milestone schedule and 
+		project approval requirement
+	3.EEF
+		Organization culture, 
+		resource availability, 
+		Resource skills, 
+		PM tool, 
+		Published commercial information (resource cost rate Db),
+		work authorization system
+	4.OPA
+		Monitoring/reporting tool, 
+		Policies and historical information related to plan schedule 
+		risk control procedures, risk impact
+		schedule control tools,
+		Templates,
+		Project Closure Guidelines
+
+TOOL and TECHNIQUES
+	1.Expert Jugdenent
+		Guidence by senior/experienced manager related to EEF/Schecule MP.
+	
+	2.Analytical techniques
+		Fast tracking-Parallel executing of depanadent (FS) activities e.g. Lead time injection.
+		Crashing- Mutliple resources working on the scheduled activities to achieve the schedule baseline.
+		Lead and Lags
+		Resource smoothing-(Floating/Slacking)- Adjusting the resources without disturbing start and end dates. 
+		Resource Leveling-Adjusting the start and end dates without disturbing resources 
+
+		FREE FLOAT:
+		TOTAL FLOAT: The amount of time that a schedule activity can be delayed or extended from its early start date without delaying the project finish date or violating a schedule constraint.
+	Formula:(LS - ES),(LF – EF)
+
+	3.Meetings
+
+OUTPUT
+1.Schedule Management Plan
+	*Project Schedule Model development: Scheduling methodology, Scheduling techniques.
+	*Level of Accuracy:Activity duration estimates range and Contingencies.
+	*units of measure:Measurement Units i.e. Staff hours,days,weeks,metres, litres, kilo.
+	*organizational procedures links:The WBS provides the framework for the schedule management plan, allowing for consistency with the estimates and resulting schedules.
+	*Project schedule model maintenance.
+	*Control Threasholds: Agreed amount of Variance thresholds for monitoring schedule performance.
+	*Rules of performance measurement:schedule variance (SV),SPI schedule performance index, baselines, FIxed formula, Percent Complete, Measurement of Control accounts.
+	*reporting formats.
+	*Process descriptions
+
+Schedule Performance Index: Schedule performance index (SPI) is a ratio of the earned value (EV) to the planned value (PV).(Greater than 1 is bad)(Equal or lower is Good)
+Schedule Variance: Schedule Variance (SV) indicates how much ahead or behind the schedule a project is running. 
+SV = EarnedValue - Planned values  
+SV = budgeted cost of work performed - budgeted cost of work scheduled= bcwp - bcws
+float or slack is the amount of time that a task in a project network can be delayed without causing a delay to:subsequent tasks ("free float"),project completion date ("total float").
+The amount of time that a schedule activity can be delayed without delaying the early start date of any successor or violating a schedule constraintFormula:(EF-ES)
+
+
+
+***********************************************************************************************
+***********************************************************************************************
+***********************************************************************************************
+***********************************define Activities*******************************************
+***********************************************************************************************
+***********************************************************************************************
+***********************************************************************************************
+
+
+
+6.2  define Activities—The process of identifying and documenting the specific actions to be performed to produce the project deliverables.
+
+KEY BENEFIT
+The key benefit of this process is to break down work packages into activities that provide a basis for estimating, scheduling, executing, monitoring, and controlling the project work.
+
+defining and planning the schedule activities such that the project objectives will be met. 
+The Create WBS process identifies the deliverables at the lowest level in the WBS—the work package. 
+
+Work packages are typically decomposed into smaller components called activities that represent the work effort 
+required to complete the work package
+
+INPUT
+A key input from the schedule management plan is the prescribed level of detail necessary to manage the work.WBS, Constraint, Assumptions
+scope baseline-
+	WBS, 
+	Work packages, 
+	
+EEF- 
+	Any PM tool, Culture
+	published commercial information
+OPA-
+	Lesson learned
+	Standard Template
+	Policies and procedures related to activity defining
+
+
+TOOLS AND TECHNIQUE
+decomposition
+rolling wave planning
+-progressive elaboration
+-planning in detail for short term
+-iteratively plan 
+
+OUTPUT
+Activity list
+*All Schedule Activity Activities.
+*activity identifier and 
+*a scope of work description for each activity
+
+Activity Attributes
+
+when not completed
+*the activity identifier (ID), 
+*WBS ID, and 
+*activity label or name, 
+
+when completed, 
+*may include activity codes, 
+*activity description, 
+*predecessor activities, 
+*successor activities, 
+logical relationships, 
+leads and lags 
+
+Milestone:
+
+************************************************Sequence Activities*************************************************
+6.3   Sequence Activities—The process of identifying and documenting relationships among the project activities.
+
+BENEFIT
+it defines the logical sequence of work to obtain the greatest efficiency given all project constraints
+
+INPUT
+.1 Schedule managementplan-
+	How to schedule activies and How to sequence Activities
+.2 Activity list-
+	schedle activities
+.3 Activity attributes-
+	may describe a necessary sequence of events or defined predecessor or successor relationships.
+.4 Milestone list-
+	may have scheduled dates for specific milestones, which may influence the way activities are sequenced.
+.5 Project scope statement- 
+	 product scope description,product characteristics,deliverables, project constraints, and project assumptions
+	 the product scope description is generally reviewed to ensure accuracy.
+.6 Enterprise environmental factors-
+	Government or industry standards,Project management information system (PMIS),Scheduling tool, and Company work authorization systems.
+.7 Organizational process assets
+ project files from the corporate knowledge, 
+existing formal and informal activity planning-related policies, procedures, and guidelines, such as the scheduling 
+
+TOOLS
+1.PRECEDENCE DIAGRAMMING METHOD-AON-activity on node
+FS
+SS
+FF
+SF
+
+In PDM, finish-to-start is the most commonly used type of precedence relationship. 
+The start-to-finish relationship is very rarely used
+
+2.DEPANDENCIES DETERMINATION
+MANDATORY(Hard Logic)-Successor activity cannot be started before predessasor activity is finished.
+DISCRETIONAL(Preffered logic/Soft logic)-identified as best practice.e.g build acceptance testing,smoke testing.
+EXTERNAL-External dependencies involve a relationship between project activities and non-project activities. e.g.Automation without having Tool, dialer testing without having PABX 
+INTERNAL-. Internal dependencies involve a precedence relationship between project activities and are generally inside the project team’s control.
+Resouce availability.
+
+MANDATORY EXTERNAL
+	Hard logic,contractual, inherent to the work
+MANDATORY INTERNAL
+DISCRETIONAL EXTERNAL
+DISCRETIONAL INTERNAL
+
+3.LEAD AND LAG:
+
+How much successor activity can be started parallely with the predecessar activity.
+
+
+OUTPUT
+1.Project schedule Network Diagram
+
+2.Project document updates
+*Activity List
+*Activity Attributes
+*Milstone List
+*Risk Register
+
+
+6.4   Estimate Activity resources—The process of estimating the type and quantities of material, human resources, equipment, or supplies required to perform each activity.
+
+Key benefit:
+*Activity resource requirement:
+*Categorized resources
+
+INPUT
+	Plan
+	Activity list
+	Activity Attributes
+	Milestone
+	Resource Calendar
+
+TOOLS
+
+TECHNIQUES
+
+
+6.5   Estimate Activity durations—The process of estimating the number of work periods needed to complete individual activities with estimated resources.
+
+INPUT
+	schedule management Plan
+	Activity list
+	Activity attributes
+	Activity Milestones
+	Scope Statement
+	Activity resource requirements
+	RBS
+	Risk Register
+	EEF
+	OPA
+
+TECHNIQUE
+	Expert Judgement
+	
+	Analogous 
+	-Gross value estimating approach
+	-Analogous estimating is generally less costly and less time consuming than other techniques, but it is also less accurate.
+	-Uses historical information
+	Remember that analogous estimates are considered to be top-down, high-level project estimates. Therefore, they are not based on a detailed understanding of what the work will require. The project manager needs more than an analogous (high-level) estimate to determine whether or not the project will meet the schedule. The benefit of an analogous project estimate is that it is management's expectations of how long the project will take. Any differences between the analogous estimate and the detailed bottom-up estimate can be reconciled in the planning processes.
+	
+	Parametric
+	-Statistical relation between historical information and other variables.
+	
+	Three point Estimation
+	-triangular 
+	-Beta Distribution
+	
+	Group decision making Techniques
+
+	Reserve Analyses
+	-Contingency reserves are associated with the “known-unknowns,”
+	-Management Reserves
+	-Time buffer.
+	-Monte Carlo simulation-is a technique used to understand the impact of risk and uncertainty in financial, project management, cost, and other forecasting
+	-Management reserve is not included in the schedule baseline, but it is part of the overall project duration requirements.
+
+
+
+6.6  develop Schedule—The process of analyzing activity sequences, durations, resource requirements, and schedule constraints to create the project schedule model.
+
+6.7  control Schedule—The process of monitoring the status of project activities to update project 
+progress and manage changes to the schedule baseline to achieve the plan.
+

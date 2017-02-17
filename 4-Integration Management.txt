@@ -1,0 +1,83 @@
+Develop project Charter:
+Develop Project Charter is the process of developing a document that formally authorizes the existence of a 
+project and provides the project manager with the authority to apply organizational resources to project activities. 
+
+Important Point
+
+- It is not a detailed.
+- Not much money and Time needs to invest.
+- Developing Organization needs to Meet with the key stakeholders of the organization who is willing to get develop.
+- It is to assess the feasiblity of project. 
+- Sponsor authorizes the project.
+- PM may create project charter, but sponsor will authorizing the PC.
+-
+
+Content:
+- High level Requirement
+- High level project description.
+- Business case
+- High level Scope WBS.
+- High level Cost
+- High level Risk
+- High level stakeholders. 
+- High level team resources.
+- High level Constraint, assumptions & objectives.
+- Project Manager Assignement and Authorition level.(does project Manager authorized to change buget, to select Team)
+- Project Approval requirements.
+
+Difference between smaller and Larger project
+
+- Complex communication channel
+- more cultures, languages, timings.
+- Complex network diagram due to large  number of Activities.
+- More risk
+- Larger stakeholder group and difficult to manage w.r.t their power/interest.
+- Require formal Change management process.
+- Involve multiple contract.
+- Experiences and specialists resources, that are expensive i.e risk manager may be required for managing detailed risks in larger projects.
+
+if company's strategic goal is to Enter into a NEW AREA OF BUSINESS, but Cost is a Constraint, then Project Manager must asked for sponsor to increase the budget 
+rather than cutitng cost . All what project manager needs to do is to Analyse the stragic goal in the Business case document i.e. business need.
+
+********************************************Project Selection********************************************
+
+Benefit Measurement(Comparative)
+- Murder board
+- Peer review 
+- Scroing Model
+- Economic Model
+
+Constrained Optimization Method:(Mathematical)
+- Linear programming
+- Integer Programming
+- Dynamic programming
+- Multi Objective programming
+
+Economic Model:
+- Present value
+- Net present Value
+- Internal return rate
+- Payback period
+- Cost Benefit Analysis
+
+Law of diminishing returns
+- Number of added resouurces does not directly  proportion to the productivity
+
+Depreciation
+- Straight line
+- Accelerated depreciation
+ -
+
+
+input
+
+- Project statement of work
+- Business case
+- Agreements
+- Enterprise environmental factors 
+- Organizational process assets
+
+
+Tools & Technique
+
+Output

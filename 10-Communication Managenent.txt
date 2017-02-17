@@ -1,0 +1,183 @@
+Project coMMunicAtions MAnAGeMent
+
+Project Communications Management includes the processes that are required to ensure timely and appropriate planning, collection, creation, distribution, storage, 
+retrieval, management, control, monitoring, and the ultimate disposition of project information. Project managers spend most of their time communicating with team 
+members and other project stakeholders, 
+
+whether they are internal (at all organizational levels) or external to the organization. 
+Effective communication creates a bridge between diverse stakeholders who may have different cultural and organizational backgrounds, different levels of expertise, and different perspectives and interests, which impact or 
+have an influence upon the project execution or outcome.
+
+99 % of project management time is spent in communicating [Anand bopada]
+55 % of communication is verbal [Anand bopada]
+
+communication dimensions 
+
+-Internal (within the project) and external (customer, vendors, other projects, organizations, the public);
+-Formal (reports, minutes, briefings) and informal (emails, memos, ad-hoc discussions);
+-Vertical (up and down the organization) and horizontal (with peers);
+-Official (newsletters, annual report) and unofficial (off the record communications); and
+-Written and oral, and verbal (voice inflections) and nonverbal (body language).
+
+Communication Skills
+-Listening 
+-Questioning
+-Educating
+-Fact Finding
+-Setting Expecting
+-Persuading
+-Motivating
+-Coaching
+-Negotiating
+-Resolving conflicts
+-Summarizing
+
+
+
+10.1   Plan  communications Management—The process of developing an appropriate approach and plan for project communications based on stakeholder’s information needs and requirements, and 
+available organizational assets.
+
+Inadequate communications planning may lead to problems such as 
+delay in message delivery, 
+communication of information to the wrong audience, or 
+insufficient communication to the stakeholders and 
+misunderstanding or misinterpretation of the message communicated.
+
+
+
+Effective communication means that the information is provided in the 
+-right format, 
+-at the right time, 
+-to the right audience, and 
+-with the right impact. 
+
+
+
+Efficient communication means providing only the information that is needed.
+
+
+-Who needs what information, and who is authorized to access that information;
+-When they will need the information;
+-Where the information should be stored;
+-What format the information should be stored in;
+-How the information can be retrieved; and
+-Whether time zone, language barriers, and cross-cultural considerations need to be taken into account.
+
+Inputs
+
+Project management plan
+The project management plan provides information on how the project will be executed, monitored, controlled, and closed
+	
+Stakeholder register
+The stakeholder register provides the information needed to plan the communication with project stakeholders.
+
+Enterprise environmental factors
+
+Organizational process assets
+
+
+.2 Tools & Techniques
+ .1 Communication requirements analysis
+
+
+The analysis of the communication requirements determines the information needs of the project stakeholders. 
+-type and format of information
+-number of potential communication channels or paths  n(n-1)/2 (n is number of stakeholders)
+
+
+Source where communication requirements can be taken
+
+-Organizational charts;
+-Project organization and stakeholder responsibility relationships;
+-Disciplines, departments, and specialties involved in the project;
+-Logistics of how many persons will be involved with the project and at which locations;
+-Internal information needs (e.g., when communicating within organizations);
+-External information needs (e.g., when communicating with the media, public, or contractors); and
+-Stakeholder information and communication requirements from within the stakeholder register 
+
+
+
+ .2 Communication technology
+
+
+
+
+what technology is required for tranforming project information among the stake holder
+
+Factors That can affect the choice of information
+
+urgency of the need for information.  
+-urgency, 
+-frequency, and 
+format of the information to be communicated.
+
+Availability of technology. 
+-technology is compatible, 
+-available, and 
+-accessible for all stakeholders throughout the life of the project.
+
+Ease of use:
+- Easily adoptable
+- Suitable for Project members
+
+
+Project Environement:
+-Team work at a same location/ or disperse location
+-Team work Face to face or not
+-Language is same or different.
+-Cultural difference
+
+Sensitivity and confidentiality of the information.
+
+- Whether information is confidential or sensitive
+- Additional security measure needs to take or not
+
+
+
+
+ .3 Communication models
+
+
+
+-Encode. Thoughts or ideas are translated (encoded) into language by the sender.
+-transmit Message. This information is then sent by the sender using communication channel (medium). 
+The transmission of this message may be compromised by various factors (e.g., distance, unfamiliar 
+technology, inadequate infrastructure, cultural difference, and lack of background information). These 
+factors are collectively termed as noise.
+-decode. The message is translated by the receiver back into meaningful thoughts or ideas.
+-Acknowledge. Upon receipt of a message, the receiver may signal (acknowledge) receipt of the message 
+but this does not necessarily mean agreement with or comprehension of the message.
+-Feedback/response. When the received message has been decoded and understood, the receiver 
+encodes thoughts and ideas into a message and then transmits this message to the original sender.
+
+ .4 Communication methods
+
+Interactive communication. Between two or more parties performing a multidirectional exchange 
+of information. It is the most efficient way to ensure a common understanding by all participants on 
+specified topics, and includes meetings, phone calls, instant messaging, video conferencing, etc.
+
+Push communication. Sent to specific recipients who need to receive the information. This ensures 
+that the information is distributed but does not ensure that it actually reached or was understood by the 
+intended audience. Push communications include letters, memos, reports, emails, faxes, voice mails, 
+blogs, press releases, etc.
+
+Pull communication. Used for very large volumes of information, or for very large audiences, and 
+requires the recipients to access the communication content at their own discretion. These methods 
+include intranet sites, e-learning, lessons learned databases, knowledge repositories, etc.
+
+
+
+ .5 Meetings
+
+.3 Outputs
+ .1 Communications management  
+  plan
+ .2 Project documents updates
+
+
+10.2   Manage communications—The process of creating, collecting, distributing, storing, retrieving and the ultimate disposition of project information in accordance with the communications management 
+plan.
+
+
+10.3  control communications—The process of monitoring and controlling communications throughout the entire project life cycle to ensure the information needs of the project stakeholders are met.
+These processes interact with each other and with processes in other Knowledge Areas as described in detail in Section 3 and Annex A1.

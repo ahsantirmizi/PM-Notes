@@ -1,0 +1,27 @@
+Contingency Reserve: 
+
+contingency reserves are money added to the project cost estimates by
+the project manager for uncertain events / risks that might happen (also known as "known
+unknowns") .to manage identified risks the amount is calculated based on risk management techniques defined in the risk management plan (e.g. Expected Monetary Value (EMV) or Decision Tree Method)
+
+The project manager has the full authority to make use of the contingency reserve once the risk(s) has/have materialized
+contingency reserve is included in the cost baseline 
+
+(Cost Baseline = Project Cost Estimate + Contingency Reserve)
+once a risk is not realized, the contingency reserve set aside for that risk would be released
+
+
+
+
+Management Reserve: management reserves are money added to the project overall budget by
+the senior management for uncertain events that are not even thought of (also known as "unknown
+unknowns", i.e. risks not shown in the risk register) .
+to manage unidentified risks (i.e. risks that cannot be identified through the risk
+management processes)
+
+the amount is based on the organization policies and/or complexity of the project (usually
+"guessed"(not scientifically) at 5 - 15% of the total budget) the management reserve is controlled by a representative from senior management (NOT the project management), prior approval must be sought before utilizing the reserve on the project management reserve is NOT included in the cost baseline but in the project overall budget
+
+(Project Budget = Cost Baseline + Management Reserve)
+
+the management reserve would be kept until the end of the project

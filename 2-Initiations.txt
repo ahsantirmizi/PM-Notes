@@ -1,0 +1,267 @@
+<-----------------------------------PROJECT INITIATIONS ACTIVITIES------------------------------------------>
+
+The initiation can be from process group 
+Organozation will initiate the project
+Sponsor can start
+NOT project  Manager's  responsibility to initiate the project
+i.e Cost, Time is not defined at the time of project initiation
+
+
+Important factors before initiating the project
+Review Enterprise environmental (iraq se tu nahi, Sham me tu nahi, pakistan government ka tu nahi)
+Review Organization process asset (organizational strength, lesson learn, have )
+Review High level project Scope and Objective(Objective behind the project that will help to Organization value)
+High level Risk, Assumptions, Constraint (Currently inhand issues)
+Financial Feasibility (Net present Value, internal rate of return, Return on investment,Payback period, Cost benefit Analysis)
+Selection matrix, weighted matrix, 
+Select an Appropriate Project Manager
+Develop a Project Charter-appointment letter of a project manager
+identify stakeholder at the time of selection
+
+Linear seletion method (method for selecting the project)
+
+
+**********************************************Project Charter******************************************************
+
+official announcement of the authorization of the project
+
+1.Project decision
+2.Proivdes Project Manager Authority
+3.Not a contract
+4.initiated by sponsor, program, program manager, authorized person, entity
+5.recommeded for PM to be a part of developing charter
+6.Project are initiated due to internal need or external influence
+7.Sponsoring entity issues/aproves PC
+8.PM is assigned during developmen to PC
+9.Highly recommend that PM should be part of developing PC
+10.PM may create project charter
+
+
+
+Input for developing the project Charter
+
+#Statement of work-Will be provided by the buyer,sponsor 
+#Business case
+#Agreements
+#Environmental factors
+#Organization process assets
+
+Who will manage above areas
+Executive commitee, POrtfolio manager by doing below mentioned tools and techniques
+
+Tools & techniques
+#Expert judgment
+#Facilitation 
+
+
+
+Contents of Charter
+
+#Project purpose or Justification
+#Measureable project objectives
+#Assumption and Constraints
+#Authorities of a Project Manager
+#high level project description and authorities
+#High Level risk
+#Summary Milestone schedule
+#Summary Budget
+#Staeholder list
+#Project Approval Requirement
+#Assigned Project Manager Authority
+#Identify Project Sponsor
+
+
+********************************************************Scope of Statement****************************************
+
+
+Business need: what is a business need for creating a product e.g. Market need etc
+Product Scope Description: What product, servie, result will be delivered by project  and its relation with the business need
+Strategic Plan:what are the organization's neeed, objective , goals
+
+Making a Business case, requirement,statement of work is not a part of initiation
+
+DECISION MAKING 
+
+3 options
+* Either owner can decide what he/she wants and direct his/her team accordingly irrespective of what time,cost,risk,benefit,enviromental factors and other business constraints
+
+* Either owner can direct someone to make a business case, so once business case will be developed time,cost,risk,benefit,enviromental factors and other business constraints will be underconsideration and owner can take a decision
+
+* Either owner can ask anyone (buyer) to outsource the project by making a certain propoal containing appropriate needs and float that proposal to the market
+
+
+**********************************************STakeholder
+
+Stakeholder
+An individual, group of people, organization that can affect your project.
+
+Categories
++tive
+-Tive
+internal,
+External
+Direct 
+Indirect
+
+* try to manage their expectation
+
+*make a list of stake holder
+*understand stakeholder
+*develop relationship
+*Optimize
+
+**********************************************STakeholder Types
+
+Sponsor: a sponsor is a person who can clear road blocks in the project progress usually by funding, by elaborating the business requirements, business decision
+Customer/user:using and owns
+Seller:Selling the project
+Business partner:Market the project
+Organizational units:bringing the business
+Functional Manager:HR,FINance, admin,IT support
+
+**********************************************Project Team
+
+Dedicated:
+dedicated allocated on a project i.e. i need to distribute the pamphlates of my business campaign, then a person who distribute will totally allocated to this task and he will not be shared by other resource.
+
+Part time
+one resource in multiple projects
+
+
+**************************************************Stakeholder********************************************
+
+People, group, organization
+customers, sponsors, the performing organization, and the public who are actively involved in the project, or whose interests may be positively or negatively affected by the execution or completion of the 
+project.
+external or internal 
+its critial to idnetify the stakeholder in the early phase
+
+
+**********************************************Identify Stakeholder********************************************
+
+A prcoess of identifying 
+people, group organization which can impact or can be impacted by activity or decision, 
+Documenting and analysing relevant information regarding
+Interest,
+Involvement
+interdepandencies
+Potential impact
+influence 
+
+
+*******************************************Identify stakeholder input
+
+*Project Charter
+*Procurement document
+*Environmental factors
+*Organizational Process assets
+
+
+*******************************************Identify stakeholder Tool
+
+1.Stake holder analysis
+Stakeholder analysis is a technique of systematically gathering and analyzing quantitative and qualitative 
+information to determine whose interests should be taken into account throughout the project.
+
+*identify potential stakeholder
+*identify potential stakeholder impact
+*Assest How they react
+
+
+2.Expert Judgement
+3.Meeting
+
+
+
+*******************************************Output-Stakeholder register*******************************************
+
+Stake Holder register
+
+1.identification information
+*Name,
+*Organization position
+*Role
+*Contact information
+
+
+2.Assessment Information
+*Major requirements, 
+*main expectations, 
+*potential influence in the project, 
+*phase in the life cycle with the most interest;
+
+3.Stakeholder Classification
+
+*Internal/external, 
+*supporter/neutral/resistor, etc.
+
+*******************************************Classify stakeholder Tool
+
+Salience model:
+represnted by venn diagram, helps in prioritizing and classifying the stake holder
+
+impact
+power
+influence
+interest
+
+
+
+*****************************************Plan Stake Holder Management
+
+The process of managing the stakeholder is stakeholder management
+How project manager manages the engagement of stakeholder throughout the life cycle of the project
+Managing stake holder is more than improving communication
+*creation and maintenance of relationships between the project team and stakeholders, with the aim to satisfy their respective needs and requirements within project boundaries
+*it is iterative process that is reviewed on a regular basis by the project manager.
+*****************************************
+
+Stakeholder Management Benefits
+
+increase awareness
+Proactive Management
+Stakeholder support
+Risk Management
+
+
+*****************************************
+
+Stakeholder Management inputs
+
+Stakeholder Management plan
+Communication Management Plan
+Change Log
+Organizational Process assets
+
+
+
+
+
+
+
+
+*******************************************stakeholder Management Tool
+
+
+A model or a plan through which project manager can assest the engagement level of the stake holder, so he/she can adjust the level according to his/her needs
+
+INPUT
+Project Management Plan:communication plan related with the stake holder
+Stake Holder rejister
+Enterprise environmental factor
+Organizational process asset
+
+Plan Stakeholder management tools
+
+Expert judgement from the senior management and have their perspective or word
+Meeting with stakeholder: try to know their engagement level
+Analytical Techniques:try to analyze yourself
+
+Five level
+Unaware
+Resistant
+Supportive
+Nuetral
+Leading
+
+
