@@ -1,4 +1,10 @@
-Scope Management Plan
+************************************************************************************************
+************************************************************************************************
+******************************Plan Scope Management*********************************************
+************************************************************************************************
+************************************************************************************************
+
+
 
 How scope will be defined
 How Scope will be decomposed
@@ -29,18 +35,35 @@ Hpw Scope changes, scope measurement will be done.
 	How Scope changes, scope measurement will be done.
  .2 Requirements management plan
 	How requirement will be Identify, Tracked, Traced & reported.
-	How changes will be initiated, Traced,Identify the impact of the change, Authorization level required to approve this change
+	How changes will be initiated, 
+	Traced,
+	Identify the impact of the change, 
+	Authorization level required to approve this change
 	How to prioritizes the requirements.
 
 Requirement 
 Requirements include conditions or capabilities that are to be met by the project or present in the product, service, or result to satisfy an agreement or other formally imposed specification
 
-Collect Requirement
-Collect Requirements is the process of determining, documenting, and managing stakeholder needs and requirements to meet project objectives
+************************************************************************************************
+************************************************************************************************
+******************************Collect Requirement*********************************************
+************************************************************************************************
+************************************************************************************************
+
+
+Collect Requirements is the process of 
+determining, 
+documenting, and 
+managing stakeholder needs and requirements to meet project objectives
 
 Types of Requirements
 	-Business requirement
+		-High level organization business needs or opportunity
 	-Solution Requirements
+		-Functional 
+			-features, functions, and characteristics of the product, service, or result
+		-Non Functional 
+			- reliability, security, 
 	-Stakeholder requirements
 	-Transition Requirements
 	-Project Requirements
@@ -78,22 +101,31 @@ Types of Requirements
  .4 Group creativity techniques
 	-Brain storming
 		Generating ideas from the group of people or stakeholder.
+		facilitator conduct the session
+		in risk identification team uses RBS and try to identify the risk 
 		Basis for Other group creativity techniques
 	-nominal group technique
 		Using results of brain storming, Requirement can be ranked on the basis of voting with leading group.
 	-Idea/mind mapping.
-		
+		Gather ideas through individual brainstorming
 	-Affinity diagram.
 		- Large number of ideas are posted on the wall.
 	-Multi Criteria Decisions 
+		- Decision tree table as we use in evaluating any tool, technology, measuring benefits  against cost
  .5 Group decision-making 
 	-Unanimity:Delphi techiniue
 		Every one agrees on a single decision.
+		way to reach on Concensus	
 		Responses are desried from a group of experts.
 		Responses kept secret 
+		Expert participate anonymously
+		Avoid biasness	
 	-Plurality
+		largest block in a group decides, even if a majority is not achieved
 	-Majority
-	-
+		-More than 50 % members  agree on a decision
+	-Dictatorship:
+		-One individual makes the decision of the group
    techniques
  .6 Questionnaires and surveys
 	-When Large number of respondent, and a general public item is going to be development i.e browser etc.
@@ -107,12 +139,13 @@ Types of Requirements
  .8 Prototypes
 	-Develop a working model 
 	-Mitigate risk
-	-Story Boarding
+	-"Story Boarding"
 	-Supports progressive elaboration
  .9 Benchmarking
 	-Benchmarking involves comparing actual or planned practices
 	-provide a basis for measuring performance.
  .10 Context diagrams
+	-Flow charts
  .11 Document analysis
  
 
@@ -120,24 +153,93 @@ Types of Requirements
  .1 Requirements documentation
  .2 Requirements traceability  
   matrix
-.
+************************************************************************************************
+************************************************************************************************
+***************************************Define scope*********************************************
+************************************************************************************************
+************************************************************************************************
+  
 Define Scope
+Define Scope is the process of developing a detailed description of the project and product.
+
+Benefit
+-identifies the bounderies
+-What requirement will be included and excluded from the project.
+
+Detailed scope is created in this process
+Detailed project scope and product scope
+Scope is iterative.
+Prograssively elaborated through out the planning process.
+What is excluded and what is included.
+Deliverabled,assumptions and constraint.
 
 .1 Inputs
  .1 Scope management plan
+	-How scope will be defined
+	-How Scope will be decomposed
+	-How Scope will be Validated (Formal Customer Acceptance)
+	-How Scope changes, scope measurement will be done.
  .2 Project charter
+	-Measurable objectives
+	-High level scope
+	-High level deliverables
+	-High level assumptions
+	-High level constraints
+	-High level Risks
+	-High level bugdet
+	-Project approval requirements
+	-High level stakeholder list
+	-Assigned project Manager and his/her authority
+	-Acceptance Criteria
+	-Sponnsor Name and signature
  .3 Requirements documentation
+	-Requirements 
+	-RTM
+		Requirement against deliverables
+		Requirement against project objectives
+		Useful for tracking
  .4 Organizational process assets
+ 
 .2 Tools & Techniques
  .1 Expert judgment
  .2 Product analysis
+		-Analysis of the deliverables of the project	
+		-Analysis of how project scope can be converted into tangible deliverables	
+		-product breakdown, 
+		systems 
+		analysis, 
+		requirements analysis, 
+		systems engineering, 
+		value engineering, and 
+		value analysis.
  .3 Alternatives generation
+		-Finding alternative for developing options
+		-different approaches to execute and perform work.	
  .4 Facilitated workshops
  .3 Outputs
  .1 Project scope statement
- .2  Project documents updates
+		-Project scope
+		-product scope
+		-Deliverable(Project and Product) e.g. Project Managementreport, document, Product component
+		-Constraint-A limiting factor that affects the execution of a project or process
+		-assumptions-A factor in the planning process that is considered to be true, real, or certain, without proof or demonstration
+		-Acceptance Criteria
+		-Exlusions (What is not included)
+ .2 Project documents updates
+		-Stakeholder register,
+		-Requirements documentation, and
+	    -Requirements traceability matrix.
+		
+************************************************************************************************
+************************************************************************************************
+***************************************Create WBS*********************************************
+************************************************************************************************
+************************************************************************************************
 
-Create WBS
+Create WBS is the process of subdividing project deliverables and project work into smaller, more manageable components
+
+Benefit:
+The key benefit of this process is that it provides a structured vision of what has to be delivered
 
 .1 Inputs
  .1 Scope management plan
@@ -145,52 +247,233 @@ Create WBS
  .3 Requirements documentation
  .4 Enterprise environmental   
    factors
- .5 Organizational process 
-  assets
+ .5 Organizational process assets
 .2 Tools & Techniques
- .1 Decomposition
+ .1 Decomposition(deconstruction)
+		-useful for estimating cost and schedule
+		-Assigning code to wbs items
+		-Degree of decomposition
+		-decompose high into lower
+		-Lowest level of WBS is work packages
+	WBS Approches
+		-Top down approach-Organization specific Guidelines
+		-Bottom up approach
+		
+	Important:
+	However, excessive decomposition can lead to 
+	-nonproductive management effort, 
+	-inefficient 
+	-use of resources, 
+	-decreased efficiency in performing the work, and 
+	-difficulty aggregating data over different levels of the WBS
+	
+	-Decomposition may not be possible for a deliverable or subcomponent that will be accomplished far into the future
+	
+	Rolling wave plan:
+		-iterative planning technique
+		-work to be accomplished in the near term is planned in detail
+		-high level planning for future work.
+		-progressive elaboration.
+	100 % rule:
+		- The total of the work at the lowest levels should roll up to the higher levels so that nothing is left out and no extra work is performed
+	
  .2 Expert judgment
 .3 Outputs
  .1 Scope baseline
+	-Approved version 
+	-Part of Project management plan, NOT project documents
+	-Project scope statement
+	-WBS
+		- Communication Tool
+		- Useful for project estimation
+		- Useful for controlling scope creep
+		- Graphical picture of hierarchy
+		- contains detailed deliverables
+		- Is a foundation upon which the project is built
+		- Should exists for every project
+		- Can be resued for other projects
+		- 
+	-WBS Dictionary
+		○ Code of account identifier,
+		○ Where user can see their roles and assigned work
+		○ Description of work,
+		○ Assumptions and constraints,
+		○ Responsible organization,
+		○ Schedule milestones,
+		○ Associated schedule activities,
+		○ Resources required,
+		○ Cost estimates,
+		○ Quality requirements,
+		○ Acceptance criteria,
+		○ Technical references, and
+		○ Agreement information.
+	-Project Scope statement
+	-WBS=Project work+Product work + Project Management Work
+	-Control Account-
+		management control point where 
+		scope, 
+		budget, 
+		actual cost, and 
+		schedule are 
+		integrated and compared to the earned value for performance measurement.
+		Each Work package is associated with the one control account
+		While one control account might be aasociated with the one or more work package
+		
+		Planning package 
+		-work breakdown structure component 
+		-below the control account with known work content
+		-without detailed schedule activities.
  .2 Project documents updates
+	-Requirement documentation (Through Perform Integrated Change control method)
+	-RTM
 
-Validate Scope
+************************************************************************************************
+************************************************************************************************
+***************************************Validate Scope*******************************************
+************************************************************************************************
+************************************************************************************************
+
+Validate Scope is the process of formalizing acceptance of the completed project deliverables
+
+Key benefit:
+The key benefit 
+of this process is that it brings objectivity to the acceptance process and increases the chance of final product, service, or result acceptance by validating each deliverable
+
+Points
+1.Formal acceptance from the customer
+2.Can be done anytime in project, provided the deliverables are verified.
+3.Can be at phase end as well
+4.can be approved by customer or sponsor
+5.Meetings with customer and clients are already planned
+6.Generally performed after Quality control but can be execute parallel.
 
 .1 Inputs
- .1 Project management plan
- .2 Requirements documentation
- .3 Requirements traceability  
-  matrix
- .4 Verified deliverables
- .5 Work performance data
+.1 Project management plan
+	-Scope Management Plan
+		-How formal acceptance will be obtained.
+	-Scope Baseline
+		WBS
+			-Approved list of deliverables
+		WBS dictionary
+			-Labeling
+			-Who is assigned to complete.
+		Scope staemtent
+.2 Requirements documentation
+		- What are the detailed requirements to complete the deliverables
+.3 Requirements traceability matrix
+	- What requirement are traced with project objectives.
+.4 Verified deliverables
+	- Quality control team verified the deliverables and sent to validate scope process.
+.5 Work performance data
+	- Details reated to level of completion of work.
+	- degree of compliance with requirements, 
+	- number of nonconformities, 
+	- severity of the nonconformities, or 
+	- the number of validation cycles performed in a period of time.
+
 .2 Tools & Techniques
- .1 Inspection
- .2 Group decision-making  
-  techniques
+.1 Inspection
+	- Measuring, validating and examining that deliverable met the requirement and product acceptance criteria.
+	- example of inspection are reviews, product reviews, audits, and walkthroughs. 
+.2 Group decision-making techniques
+	- Unanimity/delphi
+		- focus on concenses
+		- avoid biasness
+		- ananimously
+	- Plurality
+	- Majority
+	- Dictatorship
+
 .3 Outputs
- .1 Accepted deliverables
- .2 Change requests
- .3 Work performance information
- .4 Project documents updates
+.1 Accepted deliverables
+	- Acceptance from the customer or sponsor
+	- formally signed off.
+	- approved from the customer or sponsor
+	- ready to go to CLOSE process.
+.2 Change requests
+	- unaccpeted deliverables from the customer or sponsor
+	- reasons for unacceptance are also documented.
+	- defect repair
+	- will move to PICC
+.3 Work performance information
+	- Project progress in terms of scope
+		- Which deliiverables have been started.
+		- which deliverables have been ended.
+		- How many have been rejected
+		- Howm many have been accepted.
+.4 Project documents updates
+	- delivery reciept from the customer
+	- status report.
+	
+************************************************************************************************
+************************************************************************************************
+***************************************Control Scope *******************************************
+************************************************************************************************
+************************************************************************************************
 
+Control Scope is the process of monitoring the status of the project and product scope and managing changes to the scope baseline
 
-Control Scope
+Key benefit
+The key benefit of this process is that it allows the scope baseline to be maintained throughout the project
+
+Points:
+Measuring and assessing the work performance data against the scope baseline
+Managing scope Baseline changes.
+
 
 .1 Inputs
- .1 Project management plan
- .2 Requirements documentation
- .3 Requirements traceability  
-  matrix
- .4 Work performance data
- .5 Organizational process assets
+.1 Project management plan
+	  -Scope baseline:
+			-Expected versus actual
+			
+	  -Change management plan
+			-How to manage change
+			
+	  -Configuration management plan
+			-reason for change
+			-time for change
+			-person who create changes
+	  
+	  -Requirement management plan
+			-How to change the requirements
+			
+	  -Scope management plan
+			-How to change scope
+.2 Requirements documentation
+	- Requirements against each deliverables
+	
+.3 Requirements traceability matrix
+	- Tracing of requirements against project constraint and objectives.
+	- Help to detect the impact of the change
+	
+.4 Work performance data
+	- Number of change requests 
+	- Number of request rejected 
+	- Number of deliverables completed, inpprogress
+	
+.5 Organizational process assets
+
 .2 Tools & Techniques
- .1 Variance analysis
+.1 Variance analysis
+	- Identify the deviation.
+	- identify the root cause for deviation of actual performance to expected baseline.
+	-Identify whether corrective or preventive action is expected to be raised.
+	
 .3 Outputs
- .1 Work performance   
-  information
- .2 Change requests
- .3 Project management plan  
-  updates
- .4 Project documents updates
- .5 Organizational process assets  
-  updates
+.1 Work performance information
+	correlated and contextualized information on how the project scope is performing compared to the scope baseline.
+	information related to how a scope change can impact the other constraint.
+	
+.2 Change requests
+.3 Project management plan updates
+	-Scope baseline
+	-other baselines
+	
+.4 Project documents updates
+	•Requirements documentation, and
+	•Requirements traceability matrix.
+.5 Organizational process assets updates
+
+	- Causes of variances,
+	- Corrective action chosen and the reasons, and
+	- Other types of lessons learned from project scope control.

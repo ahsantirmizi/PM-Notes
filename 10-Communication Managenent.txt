@@ -1,8 +1,5 @@
 Project coMMunicAtions MAnAGeMent
 
-Project Communications Management includes the processes that are required to ensure timely and appropriate planning, collection, creation, distribution, storage, 
-retrieval, management, control, monitoring, and the ultimate disposition of project information. Project managers spend most of their time communicating with team 
-members and other project stakeholders, 
 
 whether they are internal (at all organizational levels) or external to the organization. 
 Effective communication creates a bridge between diverse stakeholders who may have different cultural and organizational backgrounds, different levels of expertise, and different perspectives and interests, which impact or 
@@ -13,11 +10,30 @@ have an influence upon the project execution or outcome.
 
 communication dimensions 
 
--Internal (within the project) and external (customer, vendors, other projects, organizations, the public);
--Formal (reports, minutes, briefings) and informal (emails, memos, ad-hoc discussions);
--Vertical (up and down the organization) and horizontal (with peers);
--Official (newsletters, annual report) and unofficial (off the record communications); and
--Written and oral, and verbal (voice inflections) and nonverbal (body language).
+-Internal 
+	(within the project) and 
+-external 	
+	(customer, vendors, other projects, organizations, the public);
+-Formal 
+	(reports, minutes, briefings) and 
+-informal 
+	(emails, memos, ad-hoc discussions);
+-Vertical (up and down the organization) and 
+
+-horizontal 
+	(with peers)
+
+-Official 
+	(newsletters, annual report) and 
+
+-unofficial 
+	(off the record communications); and
+
+-Written and oral, and 
+
+-verbal (voice inflections) and 
+
+-nonverbal (body language).
 
 Communication Skills
 -Listening 

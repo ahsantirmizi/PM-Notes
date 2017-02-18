@@ -1,0 +1,235 @@
+Standard:A standard is a formal document that describes established norms, methods, processes, and practices. 
+
+******************************************************************************************************************************************************
+
+“Good practice” means there is general agreement that the application of the knowledge, skills, tools, and techniques can enhance the chances of success over many projects.
+
+Project
+
+-A project is a temporary endeavor undertaken to create a unique product, service, or result.
+-Definite Start and End
+-project’s objectives have been achieved, it can be terminated
+-When No longer required, it can be terminated
+-objectives will not or cannot be met, it can be terminated
+-if the client (customer, sponsor, or champion) wishes to terminate the project
+
+PROJECT WILL BE INITIATED DUE TO 
+- social need, 
+- economic, and 
+- environmental impacts that far outlive the projects themselves
+- Market demand
+- Strategic opportunity/business need
+- Social need
+- Environmental consideration
+- Customer request.
+- Technological advance 
+- Legal requirement
+
+Outcome of project may be tangible or intangible
+
+
+A project can create:
+- Product
+- Service
+- Result
+- Improvement
+
+******************************************************************************************************************************************************
+
+Project Management:Application of knowledge, processes, skills, tools, and techniques to project activities to achive objectves
+
+******************************************************************************************************************************************************
+
+Program
+-Sub Programs
+-Projects manage in a co ordinated way to accomplish benefit
+-That benefit cannot be achived by one project
+-Benefit from collective capability
+-focuses on the project interdependencies e.g. resource constraints
+
+Example:new communications satellite system
+
+Program Management:Application of knowledge, processes, skills, tools, and techniques to Program activities to achive benefit
+
+Port folio
+-Subportfolio
+-programs
+-Projects
+-Operations
+To achieve STRATEGIC objective
+
+
+Portfolio management
+- Portfolio management refers to the centralized management of one or more portfolios to achieve strategic objectives.
+- Focuses on ensuring that projects and programs are 
+
+
+
+BIG DIFFERENCE BETWEEN PROGRAM and PORTFOLIO
+-Two different projects can be executied under Portfolio rather than Program.	
+ 
+******************************************************************************************************************************************************
+Project Constratints
+  Scope,
+  Quality,
+  Schedule,
+  Budget,
+  Resources, and
+  Risks.
+
+The relationship among these factors is such that if any one factor changes, at least one other factor is likely to be affected.
+******************************************************************************************************************************************************
+Trick and Tip
+
+The project team needs to be able to assess the situation, balance the demands, and maintain proactive communication with stakeholders in 
+order to deliver a successful project.
+
+
+The development of the project management plan is an iterative activity and is progressively elaborated throughout the project’s life cycle
+
+
+ORGANIZAIONAL PROJECT MANAGEMENT (OPM)
+-Strategy execution Framework
+-strategy execution framework utilizing project, program, and portfolio management as well as organizational enabling practices to consistently and predictably deliver organizational strategy producing better performance, better results, and a sustainable competitive advantage.
+
+
+PORTFOLIO MANAGEMENT
+Portfolio, program, and project management are aligned with or driven by organizational strategies.
+
+PROGRAM MANAGEMENT
+program management harmonizes its projects and program components and controls interdependencies in order to realize specified benefits.
+
+
+An organization measures its capabilities, then plans and implements improvements towards the systematic achievement of best practices.
+
+******************************************************Success******************************************************
+Project Success: 
+-By Product Quality
+-By Project Quality
+-Timelines.
+-Bugdet Complience
+-Degree of Satisfaction
+
+Program Success:
+-degree to which Benefit Achieved
+
+Portfolio Success:
+-Degree to which Strategic objective achieve
+-Agreegate investment
+-Benefit Realization of Portfolio
+************************************************************************************************************
+
+
+Project Management office
+
+-Liaison between Organization PF,PG, Projects and Control Measurement System (Balanced Scorecard.)
+- Management Structure
+- standardizes the project-related governance processes
+- facilitates the sharing of resources
+- methodologies, 
+- tools, and 
+- techniques
+- Can Terminate Projects
+
+Types of PMO structures
+-Supporting:
+	-consultative role
+	-Templates 
+	-best practices, 
+	-training, 
+	-access to information and 
+	-lessons learned
+	-serves as a project repository
+	-LOW
+-Controlling:
+	-conformance to governance 
+	-moderate
+	
+-Directive:
+	-directly managing the projects
+	-HIGH
+
+Difference between Project Manager and PMO
+
+- PM manages Project Constraint/ 
+
+- PMO manages methodologies, standards, overall risks/opportunities, metrics, and interdependencies among projects at the enterprise level.
+
+
+Operations management 
+- overseeing, 
+- directing, and 
+- controlling business operations
+- Requires business process management 
+- Requires Operation management
+- Ongoing operations are Outside the scope of a project
+- Ensuring business process are going efficiently by using optimal resource needs
+
+Example:
+production operations, 
+manufacturing operations, 
+accounting operations, 
+software support
+
+
+INTERSECTION OF PORJECT AND OPERATION
+
+-At each closeout phase
+-When developing a new product, upgrading a product, or expanding outputs
+-While improving operations or the product development process
+-Until the end of the product life cycle
+
+Operational Stakeholders
+
+•	 Plant operators,
+•	 Manufacturing line supervisors,
+•	 Help desk staff,
+•	 Production system support analysts,
+•	 Customer service representative,
+•	 Salespersons,
+•	 Maintenance workers,
+•	 Telephone sales personnel,
+•	 Call center personnel,
+•	 Retail workers,
+•	 Line managers, and
+•	 Training officers.
+
+
+IMPORTANT
+
+When the business alignment for a project is constant, the chance for project success greatly increases because the project remains aligned with the strategic direction
+
+The use of Project Project Based Organizations may diminish the hierarchy and bureaucracy inside the organizations as the success of the work is measured by the final result rather than by position or politics
+
+If the goals of a project are in conflict with an established organizational strategy, it is incumbent upon the project manager to document and identify such conflicts as early as possible in the project.
+
+Within programs and portfolios, projects are a means of achieving organizational strategy and objectives
+
+project managers have the responsibility to satisfy the needs: task needs, team needs, and individual needs
+
+BUSINESS VALUE:
+Business value is a concept that is unique to each organization.
+-the total sum of all tangible and intangible elements
+-business value scope can be short-, medium-, or long-term.
+-Business operation can increase the business value
+
+
+Competencies for effective project management 
+
+-Knowledge
+-Performance
+-Personal
+
+INTERPERSONAL SKILLS OF A PROJECT MANAGER
+
+•	 Leadership,
+•	 Team building,
+•	 Motivation,
+•	 Communication,
+•	 Influencing,
+•	 Decision making,
+•	 Political and cultural awareness,
+•	 Negotiation,
+•	 Trust building,
+•	 Conflict management, and
+•	 Coaching.

@@ -74,16 +74,19 @@ Role of project Manager in Procurement Management.
 -Must understand the Procument process flow
 -Must understand and knowledge of CONTRACT(S).
 -Make sure Procurement SOW is in the CONTRACT(S).
+-identify all project and product scope clearly e.g. meetings, trainings, 
 -Project Manager from both Parties must be included in the Bidding and Proposal Meeting.
 -Fullfil the needs of procurement team
 -Provide WBS to the procurement team.
--Managing risk and incorporate into the risk reister and CONTRACT, 
+-Managing risk and incorporate into the risk register and CONTRACT, 
 -Manage cost for all activites while managing the procurement project.
--Identify the Start and end date and incorporate into Project schedule.
+-Identify time required to complete the procurement processes and incorporate into Project schedule.
 -Managing communication between the internal and external stakeholders 
 -Be present in Negotiations and making relation appropriate among the internal and external stakeholder
--Proper change Management
+-Follow Proper change Management
+-PM should supposd to take follow up for Technical and non technical scope, i.e. deluverables, contract liens, ownership of material
 -PM must be responsible of making the progress of the project smooth by applying his/her skills, WORK DONE ON TIME. 
+-PM should not supposed to ask any thing from the seller that is not in the CONTRACT without making formal change to the CONTRACT
 
 Procurement Manager is respobsible for managing, creating procurements
 - Deciding what type of contract should be used.
@@ -146,7 +149,88 @@ Conduct Procurement Flow:
 
 IMPORTANT FACT: Private company may buy from anyone they choose, there is only one potential seller(a non competitive bidding situation).
 
+*****************************************CONTRACT TYPES*****************************************************
 
+1. Fixed price
+	-Lump sum
+	- Used when detailed procurement statement of work is available
+	- Used when manufacturing and constructing 
+	- NOT used in IT, R&D
+	- Buyer has least cost risk
+	- Seller has high cost risk.
+	- Seller has strong incentive to control cost
+	- Lesser chance of Claims, dispute will be arised.
+	- Seller is more concerned in FIXED price than in other contract types.
+	- Profit of seller is not diclosed to the buyer
+	- Reasonable price
+	- Changes can be made but with the increase of contract price and change order.
+	
+	IF SELECTING FIXED PRICE WHEN PROCUREMENT STATEMENT OF WORK IS NOT AS DETAILED
+	-Asking seller to accept the the high risk.
+	-Seller will use most of his reserve to cover their risk and buyer needs to pay all of this
+	-seller can increase the profit by cutting the scope
+	-Buyer will not be certain if any thing is in scope or not.
+	-High chances of ISSUE OF CHANGE ORDERS
+	
+	Cons:
+	Seller can take his best resources away from the project.
+	seller try to cut the work that is mentioned in the contract, which results in decrease quality
+	
+	Example
+	$10,000 
+	
+	FIXED PRICE INCENTIVE FEE.
+		-gives the buyer and seller some flexibility
+		-it allows for deviation from performance, with financial incentives tied to achieving agreed upon metrics
+		-Financial incentives are cost, schedule or technical performance of the seller.
+		-Financial incentive are subject to pay to seller if  seller acheived selected objective.
+		-Example : For every month early the project is finished, an additional $10,000 is paid to the seller
+		
+	Fixed Price with Economic Price Adjustment Contracts (FP-EPA). 
+		-many long-term relationships.
+		-seller works for so many years
+		-inflation changes, currency changes, cost increases(decreases) for specific commodities.
+		-There is a process which calculates the price adjustment
+		-
+2.Cost Reimbursible Contract
+	-Useful when exact SOW or scope is not available.
+	-useful when cost cannot be estimated accurately
+	-Buyer has to pay the incurred cost
+	-Buyer has high cost risk
+	-Seller has low cost risk
+	-Buyer has strong incentive to control cost
+	-R&D, IT projects uses Cost reimbursible
+	
+	  Cost Plus Fixed Fee Contracts (CPFF). 
+		-Seller receives cost and a fixed-fee payment calculated as a percentage of the initial estimated project costs
+		-Fee is decided before the work is done
+	    -Seller has no incentive to inflate cost
+		-Fixed fee can be increased as scope gets changed
+		-Example "Cost plus fee of $100,000"
+		
+	  Cost Plus Incentive Fee Contracts (CPIF).
+		-Incentive will be paid based on the sellers performance on acheiving certain project objective
+		-Seller shares the cost overrun if above the target price.
+		-overrun cost sharing ratio has been decided i.e. 80/20
+		-If below the target price, incentive will be given to Seller
+		-Example "500,000 is a target price, 50,000 is a target fee, with sharing ratio of 80 buyer to 20 seller"
+		
+	  Cost Plus Award Fee Contracts (CPAF).
+		- Bonus is also offered to seller based on performance
+		- Incentive is a potential award i.e we will give u one more contract if you finish project in our targeted cost.
+
+Time and Material
+	- Buyer pay on per hour and per item base
+	- Contains flavor of Cost and buyer.
+	- Work can be started quickly.
+	- quicker negotiations are allowed
+	- Seller has high profit margin
+	- contract duration is Brief.
+	- Seller has no  incentive to control
+	- useful for small effort
+	- buy need to oversight day to day.
+	- Buyer may put "Not to Exceed clause"
+	
 ****************************************************************************************************************
 
 MANAGED and CONTROL PROCUREMENT:
@@ -184,7 +268,7 @@ Building and measuring relationship is more prior than following contract in reg
 Centralized Contracting and Decentralized Contracting
 
 ***************************************************************************************************************
-CENTRALIZED:
+CENTRALIZED CONTRACT:
 
 Matrix environment.
 -One Procurement Department. 
@@ -197,8 +281,8 @@ Matrix environment.
 -Manager share Lesson learned with team
 
 
-DECENTRALIZED:
-dd
+DECENTRALIZED CONTRACT:
+
 -Projectized organization
 -Procurement member is assigned to a one or multiple projects.
 -NO Clear path for Procurement manager
@@ -206,3 +290,197 @@ dd
 -Proper Trainings required to achieve quality
 -Procurement Manager jack of all and king of None
  
+ ***************************************************************************************************************
+ ***************************************************************************************************************
+ *************************************Plan Procurement Management***********************************************
+ ***************************************************************************************************************
+ ***************************************************************************************************************
+ 
+12.1 Plan Procurement Management
+Plan Procurement Management is the process of documenting project procurement decisions, specifying the 
+approach, and identifying potential sellers. The key benefit of this process is that it determines whether to acquire 
+outside support, and if so, what to acquire, how to acquire it, how much is needed, and when to acquire it.  
+
+Plan Procurement Management Plan will answer for following questions
+
+1. How will make or buy analysis will be performed?
+2. what good or services we need to buy for this project?
+3. How will we purchase them?
+4. Who are potential sellers to use?
+ 
+Activities in This process:
+
+1.Make or buy analysis
+2.Create procurement Management Plan
+3.Create Procurement Statement of Work
+4.Select a contract type against each procurements
+5.Creating procurement Documentation
+6.Determine the source selection criteria 
+ 
+INPUT:
+.1 Project management plan
+	-Scope baseline
+		-Project scope statement
+		-constraints
+.2 Requirements documentation
+	-Scope related requirement.
+		-Compliance
+		-safety
+		-communication
+		-quality
+		-risk 
+.3 Risk register
+	-Any risk that require procurement or risk transference
+.4 Activity resource requirements
+	-required skills
+	-number
+	-type of resources
+	-Also help in finding the areas where resources are not available in the organization.
+.5 Project schedule
+	-When procurements are neededs
+	-schedule constraints
+	-Start and End dates
+	-Time estimates
+.6 Activity cost estimates
+	-internal estimates created by the buyer's organization for procured work.
+.7 Stakeholder register
+	- any new stakeholder who may be impacted or may impact the procurement.
+	- person who provide input to procurement management processees.
+.8 Enterprise environmental factors
+	-Existing procurement structure and policy
+	-market place condition
+.9 Organizational process assets
+	-Contract types
+
+TOOL AND TECHNIQUES
+
+.1 Make-or-buy analysis
+	-basically a process
+	-needs to decide whether to buy or make
+	-if risk is too high , go for buy to reduces the risk
+	-if plant is Idle, if there is a propriety issue or if want to retain control then, go for Make.
+	-Cost must be consider 
+.2 Expert judgment
+.3 Market research
+.4 Meetings
+
+RESULT:
+
+.1 Procurement management plan
+.2 Procurement statement of work
+	- Project managers responsibility to create Procurement statement of work
+	- Project team collect requirement, define a scope, divide a scope into WBS, identify activities, Estimate or identify(resources) in this.
+	- Its best to make procurement statement of work clear, consise as possible.
+	- clarity and completeness of scope statement helps in selecting procurement document and contract
+	- Contract reduces the Risk
+	- 
+	- If the Procurement statement of work is WELL DEFINED, 
+			-fixed price contract will be used, 
+			-there will be lesser risk for buyer.
+	- If the Procurement statement of work is NOT WELL DEFINED
+			-Cost reimbursible contract will be used.
+			-There will be high risk for buyer in this.
+			
+	Types of Procurement Statement of work
+		Functional:
+			"I want a car, who has automatic gear system.
+			used in IT, R&D, Tech projects or project that has never been done
+		Performance:"I want a car, whose top speed is 200KPH"
+			used in IT, R&D, Tech projects or project that has never been done
+		Design:
+			"Build it exactly as shown in diagram"
+			Used in construction and equipment purchasing
+.3 Procurement documents
+.4 Source selection criteria
+.5 Make-or-buy decisions
+.6 Change requests
+.7 Project documents updates
+ 
+****************************************************************************************************************
+****************************************************************************************************************
+ ***********************************************close Procurements**********************************************
+ ***************************************************************************************************************
+ ***************************************************************************************************************
+ ***************************************************************************************************************
+close Procurements
+
+Definition
+Close Procurements is the process of completing each procurement. 
+
+Benfit:
+The key benefit of this process is that it documents agreements and related documentation for future reference
+
+
+Key activites:
+-finalizing open claims
+-Collecting and Archiving Project records
+-Gather Lesson learned
+-Perform procurement Audit
+-Procurement Negotiation
+-Identify and gather all conttracts against all procurements
+-Gather unresolved claims which will be resolved thorugh litigation after closure.
+-can be conduct on Phase end
+
+********************************************************Who is responsible ********************************************************
+Project Manager and procurement Manager
+
+********************************************************When it will be done  ********************************************************
+-after Procument completion/requirement met
+-after project Early termination.
+	-Seller default
+	-buyer loose interest,Convienience (Buyer can terminate whole contract/portion of contract)
+	-Mutual interest parties.
+
+********************************************************Buyer Compensation in case of termination ********************************************************
+
+1.Buyer Convinence 
+	-Pay all amount of work done, accepted delievrables
+	-Pay inprogress work
+2.Seller Defaulter
+	-Pay all amount of work done 
+	-Reject to pay for inprogress work
+
+input
+.1 Project management plan
+	-Procurement Management Plan
+		-Guidence on how to close procurement
+.2 Procurement documents
+	- Gather documents such as 
+	- contract schedule, 
+	- scope, 
+	- cost, 
+	- quality, 
+	- payment records needs for Archving and Lesson learned documentation
+ 
+Tool and Technique
+
+.1 Procurement audits
+	- Structured review of procurement processes
+	- For identifying Success and Failure
+	- Helpful for other procurements in the same projects/other in the organization
+.2 Procurement negotiations
+	- final equitable settlement
+	- for all claims, issues, disputes (Primary goal)
+	- In case of failing direct negotiation, ADR/mediation/ arbitration is used
+	- Else Legal legislation, Court litigations
+	- Least Desirable option for 
+.3 Records management system
+	- Contract and Procurement documentation are archived in records.
+Output
+
+.1 Closed procurements
+	- Procurement Administrator or procurement manager send Formal written contract to seller.
+.2 Organizational process assets updates
+	- Procurement File
+		-Contracts
+		-Changes (Approved and Rejected)
+		-SUbmittal from seller
+		-Seller performance report
+		-Financial Information
+		-Inspection results
+		-Lesson learned
+		-indexed contract documentation
+		
+	- Deliverable Acceptance
+		-Documentation of formal acceptance of Seller's procided deliverables
+	- Lesson Learned documentation

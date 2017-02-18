@@ -1,4 +1,4 @@
-Time Management
+Chapter 6: Project Time Management
 
 ***********************************************************************************************
 ***********************************************************************************************
@@ -82,26 +82,29 @@ The amount of time that a schedule activity can be delayed without delaying the 
 
 
 
-6.2  define Activities—The process of identifying and documenting the specific actions to be performed to produce the project deliverables.
+define Activities—The process of identifying and documenting the specific actions to be performed to produce the project deliverables.
 
 KEY BENEFIT
 The key benefit of this process is to break down work packages into activities that provide a basis for estimating, scheduling, executing, monitoring, and controlling the project work.
 
 defining and planning the schedule activities such that the project objectives will be met. 
 The Create WBS process identifies the deliverables at the lowest level in the WBS—the work package. 
+can be done sequential or concurrently with the WBS.
 
-Work packages are typically decomposed into smaller components called activities that represent the work effort 
-required to complete the work package
+Work packages are typically decomposed into smaller components called activities that represent the work effort required to complete the work package
 
 INPUT
+Schedule Management Plan
 A key input from the schedule management plan is the prescribed level of detail necessary to manage the work.WBS, Constraint, Assumptions
 scope baseline-
-	WBS, 
-	Work packages, 
+	WBS 
+	Work packages
+	WBS Dictionary	
 	
 EEF- 
 	Any PM tool, Culture
 	published commercial information
+	pmiis
 OPA-
 	Lesson learned
 	Standard Template
@@ -110,39 +113,78 @@ OPA-
 
 TOOLS AND TECHNIQUE
 decomposition
+	-Dividing or subdividing project deliverables 
+	-manageable
+	-estimatable
+	-Team is responsible for identifying the Activities
+	
 rolling wave planning
--progressive elaboration
--planning in detail for short term
--iteratively plan 
+	-iterative planning technique
+	-work to be accomplished in the near term is planned in detail
+	-high level planning for future work.
+	-progressive elaboration.
 
+Expert Judgement:
+	-Team
+	-Skilled in developing project scope statement.
+	
 OUTPUT
 Activity list
-*All Schedule Activity Activities.
-*activity identifier and 
-*a scope of work description for each activity
+-List of All Schedule Activities.
+-activity identifier and 
+-scope of work description for each activity
+-Resource or team member can understand what work is required to be completed
 
 Activity Attributes
-
 when not completed
-*the activity identifier (ID), 
-*WBS ID, and 
-*activity label or name, 
+	-the activity identifier (ID), 
+	-WBS ID, and 
+	-activity label or name, 
 
 when completed, 
-*may include activity codes, 
-*activity description, 
-*predecessor activities, 
-*successor activities, 
-logical relationships, 
-leads and lags 
-
+	-may include activity codes, 
+	-activity description, 
+	-predecessor activities, 
+	-successor activities, 
+	-logical relationships, 
+	-leads and lags 
+	
+	-Useful for identifying the 
+		-resource responsible for completing the task 
+		-Geographical location where work will be performed
+		-LOE -Level of effort
+		-Discrete effort
+		-Apportioned Effort
+		
+	Activity Types
+		-Discrete Effort
+			-Measureable work
+			-Directly associated with the WBS
+			- e.g. 500 lines of code out of estimated 1000 lines of code is measurable as 50 % discrete work.
+		-Apportioned Effort
+			-Not Measureable
+			-inspection, 
+			-quality assurance, 
+			-verification, 
+			-validation activities
+		-Level of Effort
+			-
 Milestone:
-
-************************************************Sequence Activities*************************************************
+	-Activity with zero duration
+	-significant point or event in a project
+	-milestones represent a moment in time.
+	
+***********************************************************************************************
+***********************************************************************************************
+***********************************************************************************************
+***********************************Sequence Activities*****************************************
+***********************************************************************************************
+***********************************************************************************************
+***********************************************************************************************
 6.3   Sequence Activities—The process of identifying and documenting relationships among the project activities.
 
 BENEFIT
-it defines the logical sequence of work to obtain the greatest efficiency given all project constraints
+logical sequence of work to obtain the greatest efficiency given all project constraints
 
 INPUT
 .1 Schedule managementplan-
@@ -162,20 +204,35 @@ INPUT
  project files from the corporate knowledge, 
 existing formal and informal activity planning-related policies, procedures, and guidelines, such as the scheduling 
 
-TOOLS
-1.PRECEDENCE DIAGRAMMING METHOD-AON-activity on node
-FS
-SS
-FF
-SF
+Methods of Diagramming
+	-Arrow diagramming Method
+	-Precedence diagramming Method
+		-Most common
+		-Activity on Node (AON)
+			-FS-to start successor, predessasor needs to be finished
+			-SS-to start successor, predessasor needs to be started
+			-FF-to Finish successor, predessasor needs to be finished
+			-SF-to Finish Successor, predecessor needs to be started
+
+	-GERT-Graphical evaluation and Review Techniques
+
+
 
 In PDM, finish-to-start is the most commonly used type of precedence relationship. 
 The start-to-finish relationship is very rarely used
 
-2.DEPANDENCIES DETERMINATION
-MANDATORY(Hard Logic)-Successor activity cannot be started before predessasor activity is finished.
-DISCRETIONAL(Preffered logic/Soft logic)-identified as best practice.e.g build acceptance testing,smoke testing.
-EXTERNAL-External dependencies involve a relationship between project activities and non-project activities. e.g.Automation without having Tool, dialer testing without having PABX 
+DEPANDENCIES DETERMINATION
+MANDATORY
+	(Hard Logic)-
+	Successor activity cannot be started before predessasor activity is finished.
+DISCRETIONAL
+	-(Prefrential,Preffered logic/Soft logic)
+	-identified as best practice.e.g build acceptance testing,smoke testing.
+	-Fastracking useful for controlling the project.
+EXTERNAL
+	-External dependencies involve a relationship between project activities and non-project activities. 
+	-Dependancy on supplier who provide raw materials
+	e.g.Automation without having Tool, dialer testing without having PABX 
 INTERNAL-. Internal dependencies involve a precedence relationship between project activities and are generally inside the project team’s control.
 Resouce availability.
 
@@ -185,82 +242,418 @@ MANDATORY INTERNAL
 DISCRETIONAL EXTERNAL
 DISCRETIONAL INTERNAL
 
+PM is responsible for identifying internal or external depandency
+Project  team is responsible for identifying mandatory and discreational dependencies
+
 3.LEAD AND LAG:
 
+Lead
 How much successor activity can be started parallely with the predecessar activity.
+
+Lags
+Waiting time between the activities.
+3 days after the sprint for refinement
+
 
 
 OUTPUT
 1.Project schedule Network Diagram
-
+	-Useful for determining critical path
+	-useful for estimation
+	-useful for sequence
+	-graphical representation
+	
 2.Project document updates
-*Activity List
-*Activity Attributes
-*Milstone List
-*Risk Register
-
+	-Activity List
+	-Activity Attributes
+	-Milstone List
+	-Risk Register
+***********************************************************************************************
+***********************************************************************************************
+***********************************************************************************************
+***********************************Estimate Activity Resources*********************************
+***********************************************************************************************
+***********************************************************************************************
+***********************************************************************************************
 
 6.4   Estimate Activity resources—The process of estimating the type and quantities of material, human resources, equipment, or supplies required to perform each activity.
 
 Key benefit:
-*Activity resource requirement:
-*Categorized resources
+-Activity resource requirement:
+-Categorized resources
+-Deatiled and accurate estimate
+
+closely coordinated with the Estimate Costs process
 
 INPUT
-	Plan
-	Activity list
-	Activity Attributes
-	Milestone
-	Resource Calendar
+	-Schedule Management Plan
+		- Level of accuracy
+		- unit of measure
+	-Activity list
+	-Activity Attributes
+	-Resource Calendar
+		-Calendar
+		-Available Working days and shift for resource
+		-Human, equipment or material
+		-Contains Resource skill, experience and geographical location.
+	-Activity cost estimate
+	-Risk Register
+		-List of potential risk
+	-OPA
+	-EEF
+		-resource location, 
+		-availability, and 
+		-skills.
 
 TOOLS
 
-TECHNIQUES
+Expert judgment
+	-Project Team
+	
+Alternative analysis
+	-Alternative ways of doing a work
+	-Estimating using own resource or outsourced resource.
+    -Make or buy
+	-Estimating work with experienced and inexperienced
+	-Estimating work with Automated vs manual 
+Published estimating data
+	- resource rates for unit hour 
+Bottom-up estimating
+	-aggregating the estimates of the lower-level components of the WBS.
+	-Detailed
+	-Accurate
+	-Costly
+	-Time taking
+	-useful when detail understanding is available
+	-Gets Team buy in, Team is responsible for creating estimates 
+Project management software
+	- scheduling software tool
+	- maintains details of resource availability
+	- maintains details of resource rates
+	- maintains details of resource category
+Output:
+-Activity resource requirements
+	-types and quantities of resources required for each activity in a work package.
+	-which type of resource needed
+	-From which duration a resource is needed
+	-In which quantity the resources are needed
+	-For which shift and working days a resource is required
+	-For which skill a resource is required
 
+-Resource breakdown structure
+	-hierarchical representation of resources by category and type
+	-Grade level, skill level
+-Project documents updates
+	-Activity list,
+	-Activity attributes, and
+	-Resource calendars.
 
+***********************************************************************************************
+***********************************************************************************************
+***********************************************************************************************
+***********************************Estimate Activity Duration**********************************
+***********************************************************************************************
+***********************************************************************************************
+***********************************************************************************************
 6.5   Estimate Activity durations—The process of estimating the number of work periods needed to complete individual activities with estimated resources.
 
 INPUT
 	schedule management Plan
+		- Level of accuracy
+		- unit of measure
 	Activity list
 	Activity attributes
 	Activity Milestones
-	Scope Statement
+	Project Scope Statement
+		-Assumptions
+		-Constraint
 	Activity resource requirements
-	RBS
+		-types and quantities of resources required for each activity in a work package.
+		-which type of resource needed
+		-From which duration a resource is needed
+		-For which quantity the resource is needed
+		-For which shift and working days a resource is required
+		-For which skill a resource is required
+	Risk Breakdown Structure
+	Resource Calendar
 	Risk Register
 	EEF
+		Duration estimating databases and other reference data,
+		Productivity metrics,
+		Published commercial information, and
+		Location of team members
 	OPA
+		Historical duration information,
+		Project calendars,
+		Scheduling methodology, and
+		Lessons learned.
 
 TECHNIQUE
 	Expert Judgement
 	
 	Analogous 
 	-Gross value estimating approach
-	-Analogous estimating is generally less costly and less time consuming than other techniques, but it is also less accurate.
+	-less costly 
+	-less time consuming than other techniques, 
+	-less accurate.
 	-Uses historical information
-	Remember that analogous estimates are considered to be top-down, high-level project estimates. Therefore, they are not based on a detailed understanding of what the work will require. The project manager needs more than an analogous (high-level) estimate to determine whether or not the project will meet the schedule. The benefit of an analogous project estimate is that it is management's expectations of how long the project will take. Any differences between the analogous estimate and the detailed bottom-up estimate can be reconciled in the planning processes.
+	-Uses parameters from previous projects 
+	-Useful when less details are available
+	-Gets Senior and expert Team Buy in.
+	-Considered to be top-down, high-level project estimates. Therefore, they are not based on a detailed understanding of what the work will require. The project manager needs more than an analogous (high-level) estimate to determine whether or not the project will meet the schedule. The benefit of an analogous project estimate is that it is management's expectations of how long the project will take. Any differences between the analogous estimate and the detailed bottom-up estimate can be reconciled in the planning processes.
 	
 	Parametric
 	-Statistical relation between historical information and other variables.
+	-Uses algorithm
+	-Uses parameters from previsous project
+	-can produce higher levels of accuracy
 	
 	Three point Estimation
-	-triangular 
-	-Beta Distribution
+	-Estimating using considering uncertainty and risk
+	-PERT
+	-triangular, (P+O+M)/3
+	-Beta Distribution, (P+O+M)/6 (Pert)
 	
 	Group decision making Techniques
-
+		-Delphi/unanimity
+		-Plurality
+		-Majority
+		-Dictatorship
 	Reserve Analyses
-	-Contingency reserves are associated with the “known-unknowns,”
-	-Management Reserves
-	-Time buffer.
-	-Monte Carlo simulation-is a technique used to understand the impact of risk and uncertainty in financial, project management, cost, and other forecasting
-	-Management reserve is not included in the schedule baseline, but it is part of the overall project duration requirements.
+		-Contingency allownces
+		-to avoid schedle uncertainity
+		-Contingency reserves are associated with the “known-unknowns,”
+		-Management Reserves are associated for "unknown-unknowns" or unforeseen, not a part of schedule baseline
+		-Management Reserves are part of project Buudget.
+		-whenever Management Reserve gets used, it is added to the COST BASELINE.
+		-Time buffer/reserve.
+		-Calculated through Monte Carlo simulation-is a technique used to understand the impact of risk and uncertainty in financial, project management, cost, and other forecasting
+		-Management reserve is not included in the schedule baseline, but it is part of the overall project duration requirements.
 
+OUTPUT
+Acitivity duration estimates
+	-quantitative assessments
+	-LAGS are not integrated
+	
+Project Documents Update	
 
+***********************************************************************************************
+***********************************************************************************************
+***********************************************************************************************
+***********************************Develop Schedule********************************************
+***********************************************************************************************
+***********************************************************************************************
+***********************************************************************************************
 
 6.6  develop Schedule—The process of analyzing activity sequences, durations, resource requirements, and schedule constraints to create the project schedule model.
 
-6.7  control Schedule—The process of monitoring the status of project activities to update project 
-progress and manage changes to the schedule baseline to achieve the plan.
+BENEFIT:
+Obtain Schedule Model for project using below mentioned 
+	-schedule Constraints
+	-sequence activities
+	-resource requirements
+	-Duration estimates
 
+INPUT
+	-Schedule Management Plan
+		-How schedule Model will be developed, 
+		-what scheduling tool will be used
+		-scheduling method
+	-Project Scope Statement
+		-Constraints
+		-Assumptions
+	-Activity list
+		-discussed earlier
+	-Acitivity Attributes
+		-discussed earlier
+	-Activity resource requirements	
+		-discussed earlier
+	-Resouce Breakdown Structure
+		-discussed earlier
+	-Activity Duration Estimates
+		-discussed earlier
+	-Project Staff assignment
+		-appropriate people have been assigned to the team
+		-Project Team members assignments are documented in project directory.
+	-Risk Register
+	-Resource Calendar
+		-discussed earlier
+	-EEF
+	-OPA
+
+TOOL AND TECHNIQUE
+
+Schedule network analysis
+	- What if analyses will be used
+	- Calculating Early start, Late start, Early finish, Late finish (Zero method or one method)
+	- Identify techniques like critical path, 
+	- examples is critical chain, 
+	- WHat if analyses, 
+	- examples is Resource optimization techniques
+	- Analysing Path convergence, path divergence
+	
+Critical path method
+	- used to estimate the minimum project duration
+	- determine the amount of scheduling flexibility (Total Float) on non critical path
+	- sequence of activities that represents the longest path 
+	- shortest possible project duration
+	- Float is zero on Critical path.
+	- critical paths may have positive, zero, or negative total float depending on constraints applied
+	- Activity on a critital path is critical path activity
+		- Positive float: more time available for an activity in the project schedule
+		- Negative float: means excess time is not available for an activity so that activity.
+	- Schedule Networks can have more than one near critical path.
+	
+Critical chain method
+	- resource-constrained critical path is known as the critical chain.
+	- non-work schedule activities to manage uncertainty
+	- Used for placing the buffers to account for limited resources and project uncertainities.
+	- introduces the concept of buffers and buffer management.
+		-Project buffer: 
+			-non work schedle activity along the critical chain 
+			-Avoid from slipping the schedle on finish dates
+		-Feeding buffer: non work schedle activity along the NON critical chain
+		
+Resource optimization  techniques
+	-Resource Leveling
+		- Leveling is done first as "L" comes before "S"
+		- Resources are constraint
+		- Cost can be increased
+		- Start and End Dates will be adjusted
+		
+	-Resource Smoothing
+		- Modified form of resource leveling
+		- Adjust the activities 
+		- Modifying the schedule with out adjusting the start and end date
+		- Critical path is not changed.
+		- Acitivities may be delayed on their available floats.
+		- All resources may not be optimized.
+		
+Modeling techniques
+	-What if analyses
+		- process of evaluating scenarios in order to predict their effect, positively or negatively, on project objectives
+		- Useful for feasibility of project schedule in adverse condition.
+		- Example : "Generally there will be no chance of strike, but during execution, there had a three day strike, how this problem can be prevented in future" 
+		Answer:using WHAT-IF ANALYSES, MONTECARLO 
+		
+	-Simulation
+		- process of estimating or creating multiple outcomes (project duration) with different activity assumptions.
+		- Uses 3 point estimation technique to calculate the probability ditribution.
+		- Useful for estimating levels of uncertainity in project durations.
+		- Example MONTE CARLO ANALYSIS
+		
+Leads and lags
+	-Discuss earlier
+	
+Schedule compression
+	-Crashing
+		- Adding multiple resources to perform activities on CRITICAL PATH
+		- Cost will be increased
+		- Useful for achiving the end dates
+		- useful when SPI < 1 and CP1 >1 
+		- Example : approving overtime, adding multiple resource
+		- may result in increased risk and/or cost.
+	-Fast Tracking
+		- Parallel execution of depandent activities on CRITICAL PATH
+		- Risk will be increased.
+		- useful when SPI < 1 and CP1 < 1
+		- may result in increased risk and/or rework
+Scheduling tool
+		- Automated softwares
+		- useful for developing the schedule
+		- Managing changes.
+OUTPUT
+
+Schedule Baseline:
+	- Component of Project Management plan document
+	- Approved version of schedule model (Start date and end date for activities included in work packages)
+	- Can only be changed through PICC (Formal change control board).
+	- Useful for measuring the performance of schedule.
+	- Appropriate stakeholders i.e. sponsor will approve.
+	
+Project Schedule:
+	- Output of Schedule model
+	- Graphical representation of schedule
+	 - Bar charts
+		- GANTT charts
+		- Management presentation
+		- hammock activity, is used between milestones or across multiple interdependent work packages
+		- Controlling schedule, measuring performance.
+	 - Milestones
+		- Useful for reporting for Senior management
+		
+	 - Project Schedule network diagram.
+		- interdependencies between activities.
+		- pure logic diagram
+		
+Schedule data:
+	-Useful for controlling the schedule.
+	
+Project Calendars:
+	- working days and shifts that are available for scheduled activities
+	- useful for finding the available slots or time period or days in which an activities can be done.
+	
+Project Management Plan updates
+	- schedule Management Plan updates
+	- Schedule Baseline
+
+Project Document Updates:
+	-Activity resource requirement
+	-Risk register
+	-Activity Attributes
+	-Calenders
+
+
+control Schedule
+
+The process of monitoring the status of project activities to update project progress and manage changes to the schedule baseline to achieve the plan.
+
+.1 Inputs
+.1 Project management plan
+.2 Project schedule
+.3 Work performance data
+.4 Project calendars
+.5 Schedule data
+.6 Organizational process assets
+
+.2 Tools & Techniques
+.1 Performance reviews
+	- trend analysis. 
+		- checking the trend
+		- Checking whether performance is improving or deteroiting
+		- Graphical analysis techniques are valuable for understanding performance to date and for comparison to future performance goals
+	- critical path method
+	- Critical chain method
+		- DISCUSSED EARLIER
+		- comparing the amount of buffer planned vs amount of buffer needed
+		- Corrective action may take if difference is greater than 1.
+		
+	- Earned value Management
+		- Calclulating the Schedule variance
+		- Calculate the variance using the planned start and end date of activites with the actual start and end dates
+		- Calculate the SPI and SV
+		- Calculate the degree of variance.
+		- identify the root causes for the variance
+.2 Project management software
+.3 Resource optimization techniques
+.4 Modeling techniques
+.5 Leads and lags
+.6 Schedule compression
+.7 Scheduling tool
+
+.3 Outputs
+.1 Work performance information
+	- Calculated SPI and SV
+.2 Schedule forecasts
+.3 Change requests
+.4 Project management plan updates
+	- Scehdule baseline
+	- Schedule management plan
+	- cost baseline.
+.5 Project documents updates
+	- Schedule Data:
+	- Project Schedule :
+	- Risk Register:
+.6 Organizational process assets updates
+	- Causes of Variances
+	

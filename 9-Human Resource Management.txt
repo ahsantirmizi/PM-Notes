@@ -3,114 +3,127 @@
 
 Plan Human resource Management
 
-plan of identifying
-1.Required skills
-2.Project roles and responsibility
-3.Reporting relationship
-4.Organization chart
-5.Staff Management Plan
+	plan of identifying
+	1.Required skills
+	2.Project roles and responsibility
+	3.Reporting relationship
+	4.Organization chart
+	5.Staff Management Plan
 
 staffing management plan 
 
--Timetables for staff acquisition and release, 
--identification of training needs, 
--team-building strategies, 
--plans for recognition and rewards programs, 
--compliance considerations legal requirements, 
--safety issues, 
--the impact of the staffing management plan on the organization
+	-Timetables for staff acquisition and release, 
+	-identification of training needs, 
+	-team-building strategies, 
+	-plans for recognition and rewards programs, 
+	-compliance considerations legal requirements, 
+	-safety issues, 
+	-the impact of the staffing management plan on the organization
 
 -Project team members (resources) may be inside and outside the organization
 -project costs, schedules, risks, quality, and other project areas may be significantly affected
 
 
-.1 Inputs
+Inputs
 
 
- .1 Project management plan
+Project management plan
 
-
--The project life cycle and the processes that will be applied to each phase,
--How work will be executed to accomplish the project objectives,
--A change management plan that documents how changes will be monitored and controlled,
--A configuration management plan that documents how configuration management will be performed,
--How integrity of the project baselines will be maintained, and
--Needs and methods of communication among stakeholders.	
+	-project life cycle and the processes in each phase,
+	-How work will be executed to accomplish the project objectives,
+	-change management Plan
+	-Configuration management
+	
+	-How integrity of the project baselines will be maintained, and
+	-Needs and methods of communication among stakeholders.	
 
 
  .2 Activity resource requirements
 	
--Quantity and Type of resources 
+	-types and quantities of resources required for each activity in a work package.
+	-which type of resource needed
+	-From which duration a resource is needed
+	-In which quantity the resources are needed
+	-For which shift and working days a resource is required
+	-For which skill a resource is required
 
 
  .3 Enterprise environmental factors
 
 
--Organizational culture and structure,
--Existing human resources,
--Geographical dispersion of team members,
--Personnel administration policies, and
--Marketplace conditions.
+	-Organizational culture and structure,
+	-Existing human resources,
+	-Geographical dispersion of team members,
+	-Personnel administration policies, and
+	-Marketplace conditions.
 
  .4 Organizational process assets
 
--Organizational standard processes, policies, and role descriptions;
--Templates for organizational charts and position descriptions;
--Lessons learned on organizational structures that have worked in previous projects; and
--Escalation procedures for handling issues within the team and within the performing organization.
+	-Organizational standard processes, policies, and role descriptions;
+	-Templates for organizational charts and position descriptions;
+	-Lessons learned on organizational structures that have worked in previous projects; and
+	-Escalation procedures for handling issues within the team and within the performing organization.
 
 
 .2 Tools & Techniques
 
 1 Organization charts and position descriptions
 
--document team member roles and responsibilities & reporting relation
--Three formats hierarchical (high-level roles), matrix, and text-oriented(detailed responsibilities)
--the objective is to ensure that each work package has an unambiguous owner
--all team members have a clear understanding of their roles and responsibilities
+	-document team member roles and responsibilities & reporting relation
+	-Three formats hierarchical (high-level roles), matrix, and text-oriented(detailed responsibilities)
+	-the objective is to ensure that each work package has an unambiguous owner
+	-all team members have a clear understanding of their roles and responsibilities
 
 Hierarchial Charts:
 
--show positions and 
--relationships in a graphical, top-down format.
--WBS provides the decompotion of project deliverables, on which the resources will be assigned and responsible
--OBS (Organization Breakdown Structure) Teams, Departments, Units. Work packages will be assigned under the OBS.
--RBS (Resource Break Down Structure) hierarchial break down of resource by type and category.
--The RBS is helpful in tracking project costs and can be aligned with the organization’s accounting system.
+	-show positions and 
+	-relationships in a graphical, 
+	-top-down format.
+	-WBS provides the decompotion of project deliverables, on which the resources will be assigned and responsible
+	-OBS (Organization Breakdown Structure) Teams, Departments, Units. Work packages will be assigned under the OBS.
+	-RBS (Resource Break Down Structure) hierarchial break down of resource by type and category.
+	-The RBS is helpful in tracking project costs and can be aligned with the organization’s accounting system.
 
 
 Matrix-based charts:
 
--Responsibility assignment matrix (RAM)
--(RAM) is a grid that shows the project resources assigned to each work package.
--It is used to illustrate the connections between work packages or activities and project team members
--high-level RAM can define what a project team group or unit is responsible for within each component of the WBS
--lower-level RAMs are used within the group to designate roles, responsibilities, and levels of authority for specific activities.
--shows all activities associated with one person and all people associated with one activity.
--This also ensures that there is only one person accountable for any one task to avoid confusion of responsibility
--RACI (responsible, accountable, consult, and inform).
--A RACI chart is a useful tool to use when the team consists of internal and external resources
+	-Responsibility assignment matrix (RAM)
+	-(RAM) is a grid that 
+	-Connection between poject resources assigned to each work package.
+	-high-level RAM can define what a project team group or unit is responsible for within each component of the WBS
+	-lower-level RAMs are used within the group to designate roles, responsibilities, and levels of authority for specific activities.
+	-shows all activities associated with one person and all people associated with one activity.
+	-This also ensures that there is only one person accountable for any one task to avoid confusion of responsibility
+	-RACI (responsible, accountable, consult, and inform).
+	-A RACI chart is a useful tool to use when the team consists of internal and external resources.
 
 Text-oriented formats:
 
--detailed descriptions of team member responsibilities.
--Document mentions responsibilities, authority, competencies, and qualifications associated with the team member.
+	-detailed descriptions of team member responsibilities.
+	-Document mentions responsibilities, authority, competencies, and qualifications associated with the team member.
 
 
 2 Networking
--formal and informal interaction with others in an organization, industry, or professional environment
--understand political and interpersonal factors that will impact the effectiveness of various staffing management options.
--Examples are proactive correspondence, luncheon meetings, informal conversations including meetings and events, trade conferences, and symposia (Conference, Party or meeting to discuss a particular subject ), Drinking party in latin greece.
-- Networking can be a useful technique at the beginning of a project.
+	-Interaction
+		- formal and informal interaction 
+		- with others in an organization, industry, or professional environment
+	-understand political and interpersonal factors that will impact the effectiveness of various staffing management options.
+	-Examples are 
+		-proactive correspondence, 
+		-luncheon meetings, 
+		-informal conversations including meetings and 
+		-events, trade conferences, and symposia (Conference, Party or meeting to discuss a particular subject ), Drinking party in latin greece.
+	-Networking can be a useful technique at the beginning of a project.
 
 
 3 Organizational theory
 
-- provides information regarding the way in which people, teams, and organizational units behave
-- How organizaitonal units react, adapt, configure, structures and make contigencies on MICRO and MACRO level.
-- Time Cost and Effort can be saved.
-- It improves Planning effeciancy.
-- Oftenly provided by EEF.
+	- Expresses departmental behaviour(s) in Organization.
+	- provides information regarding the way in which people, teams, and organizational units behave
+	- How organizaitonal units react, adapt, configure, structures and make contigencies on MICRO and MACRO level.
+	- helps in saving Time Cost and Effort
+	- It improves Planning effeciancy.
+	- Oftenly provided by EEF.
 
 4 Expert judgment
 
@@ -139,25 +152,31 @@ CONTENTS OF HUMAN RESOURCE MANAGEMENT PLAN
 
 -Roles and responsibilities
 	Role- The function assumed by or assigned to a person in the project.Business analyst, QA, Co ordinator.
+	Authority-
+		The right to apply project resources, 	
+		make decisions, 
+		sign approvals, 
+		accept deliverables, and 
+		influence others to carry out the work of the project.
+		Team members operate best when their individual levels of authority match their individual responsibilities
 	
-	Authority- The right to apply project resources, make decisions, sign approvals, accept deliverables, and influence others to carry out the work of the project.Team members operate best when their individual levels of authority match their individual responsibilities
-	
-	Responsibility- The assigned duties and work that a project team member is expected to perform in order to complete the project’s activities  
-	
-	Competency- The skill and capacity required to complete assigned activities within the project constraints.When such mismatches are identified, proactive responses such as training, hiring, schedule changes, or scope changes are initiated
+	Responsibility- 
+		The duties and work assigned to project team member  
+	Competency- 
+		The skill and capacity required to complete assigned activities within the project constraints.
+		When such mismatches are identified, proactive responses such as training, hiring, schedule changes, or scope changes are initiated
 	
 -Project organization charts
-	-A project organization chart is a graphic display of project team members and their reporting relationships
+	-graphic display of project team members and their reporting relationships
 	-formal or informal, highly detailed or broadly framed
+	-Hierarchial top down chart
 
 -Staffing management plan
 
-The staffing management tells 
-
--when project team members will be acquired 
--how project team members will be acquired 
--how long project team members will be acquired
--In the middle of the project.
+	-when project team members will be acquired 
+	-how project team members will be acquired 
+	-how long project team members will be acquired
+	-In the middle of the project.
 
 
 	Staff acquisition- 

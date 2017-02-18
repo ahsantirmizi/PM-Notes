@@ -1,3 +1,33 @@
+CLosing
+
+
+Key Activities of Closing :
+
+-Confirm that all the requirements have been met.
+-Close Procurements. 
+	-Within this process, multiple action are involved such as:
+	-Verify the product.
+	-Issue formal acceptance.
+	-Conduct a procurement audit.
+	-Report final contract performance.
+	-Document lessons learned.
+	-Perform financial closure of the contract (make the payments).
+-Get formal acceptance of the product (product, service or result) of the project.
+-Measure customer satisfaction.
+-Perform financial closure of the project.
+-Report final project performance.
+-Document lessons learned.
+-Update project records.
+-Archive project records.
+-Hand-off the completed product.
+-Release the team and other resources.
+
+http://www.deepfriedbrainproject.com/2010/04/pmp-order-activities-closing-process.html
+
+
+
+
+
 **********************************close Project or Phase
 process of finalizing all activities across all of the Project Management Process groups to formally complete the project or phase.
 Formal way of finalizing the activities among process group 
@@ -15,7 +45,7 @@ PM investigate and document the reason for termination by following the procedur
 
 ********PM responosibility
 
-* Actions and activities necessary to satisfy completion or exit criteria for the phase or project
+* satisfy completion or exit criteria for the phase or project
 * Actions and activities necessary to 
 1.transfer the project’s products, services, or results to the next phase or to production and/or operations
 

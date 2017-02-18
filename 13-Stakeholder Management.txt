@@ -1,0 +1,152 @@
+Idnetify stakeholder:
+
+Stakeholder	
+	-Assembly line worker
+	-Individual (Person, Organization)
+	-Group (People)
+	-May affect / May be Affected
+	-May effect Positively
+	-May effect Negatively
+	-May effect project deliverable which produces outcomes which satisfies the strategic objective.
+	
+Stakeholder Classification
+	-Internal
+	-External
+	-Positive 
+	-Negative
+	-Performing
+	-Advising
+
+Stakeholder Engagement Level
+	-Nuetral
+	-Supportive
+	-Unaware
+	-Leading
+	-Resisting
+
+Identification of Stakeholders
+	-continuous process throughout the entire project life cycle
+	-Critical for the project success
+	-Can cause delays which cause schedule overrun which causes cost overrun
+	-Example legal department is a significant stakeholder.
+
+****************************************************************************************************************
+****************************************************************************************************************
+**************************************Identify Stakeholder*****************************************************
+****************************************************************************************************************
+****************************************************************************************************************
+
+
+
+Identify Stakeholders is the process of identifying the people, groups, or organizations that could impact or 
+be impacted by a decision, activity, or outcome of the project, analyzing and documenting relevant information 
+regarding their interests, involvement, interdependencies, influence, and potential impact on project success	
+	
+Important points	
+-Stakeholder may effect.
+-Stakeholder may be effected
+-Stakeholder may be at different levels within organizations
+-Stakeholder may be within performing organization
+-Stakeholder may be outside the performing organization
+-Critical/Best for project success to identify the stakeholders early in the project or phase and to 
+-analyze their levels of interest, 
+-analyze their individual expectations, as well as their importance and influence	
+-The assessment of stake holder should be checked on the periodic basis.
+-Classified as interest, influence, and involvement
+-Maintaining relationship with them
+	
+Inputs
+.1 Project charter
+	-information about internal and external parties 
+	-who may be affected by the result or the execution of the project, 
+	-such as project sponsor(s), customers, team members, groups and departments participating in the project, and other people or organizations affected by the project
+
+.2 Procurement documents
+	-parties in that contract are key project stakeholders
+	-Suppliers
+	
+.3 Enterprise environmental factors
+	-Organizational culture and structure;
+	-Governmental or industry standards (e.g., regulations, product standards); and
+	-Global, regional or local trends, and practices or habits
+	
+.4 Organizational process assets
+	-Stakeholder register templates,
+	-Lessons learned from previous projects or phases, and
+	-Stakeholder registers from previous projects.
+
+Tools & Techniques
+.1 Stakeholder analysis
+	 - technique of systematically gathering and analyzing quantitative and qualitative information to determine whose interests should be taken into account throughout the project
+	 - identifies interests, expectations, and influence of the stakeholders
+	 - relate above mentioned information w.r.t project objective
+	 - helps in identify stakeholder relationships
+	 
+	Key Steps:
+		- Step 01: Identify Stakeholder
+		- Step 02: Identify their relevant information i.e. 
+			-roles, 
+			-department, 
+			-interest, 
+			-knowledge, 
+			-influence
+		-Step 03: Classify Sponsor, project manager and key customer as Key stakeholders.
+		-Step 04: Identfify further stakeholder by interviewing.
+		-Step 05: Analyze the potential impact or support each stakeholder 
+		-Step 06: Prioritizes them.
+		-Step 07: Manage their expectation and Engagement.
+		-Step 08: Assess how stakeholder can react in certain situations, so PM can plan accordingly.
+		
+stakeholders analysis Grid:
+
+1. Power/interest grid
+2. Power/influence Grid
+3. Influence/Impact Grid
+4. Salience Model (Power/ Urgency/ legitimacy)
+	- Power (ability to impose their will)
+	- Urgency(need for immediate attention)
+	- legitimacy (their involvement is appropriate)	
+	
+.2 Expert judgment
+.3 Meetings
+ 
+.3 Outputs
+.1 Stakeholder register
+
+	- Identification information. Name, organizational position, location, role in the project, contactinformation;
+	- Assessment information. Major requirements, main expectations, potential influence in the project, phase in the life cycle with the most interest; and
+	- Stakeholder classification. Internal/external, supporter/neutral/resistor, etc.
+
+The stakeholder register should be consulted and updated on a regular basis, as stakeholders may change—or new ones identified—throughout 
+the life cycle of the project.
+
+****************************************************************************************************************
+****************************************************************************************************************
+***********************************Plan Stakeholder Management**************************************************
+****************************************************************************************************************
+****************************************************************************************************************
+
+Plan Stakeholder Management is the process of developing appropriate management strategies to effectively 
+engage stakeholders throughout the project life cycle, based on the analysis of their needs, interests, and potential 
+impact on project success. 
+
+Benefit
+The key benefit of this process is that it provides a clear, actionable plan to interact with 
+project stakeholders to support the project’s interests
+
+Input
+.1 Project management plan
+.2 Stakeholder register
+.3 Enterprise environmental factors
+.4 Organizational process assets
+
+
+Tool 
+.1 Expert judgment
+.2 Meetings
+.3 Analytical techniques
+
+Output
+
+.1 Stakeholder management plan
+.2 Project documents updates

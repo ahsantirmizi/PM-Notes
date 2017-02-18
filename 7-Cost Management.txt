@@ -2,12 +2,396 @@ Pay back period:the length of time required for an investment to recover its ini
 terms of profits or savings
 
 Internal rate of return (IRR) is a metric used in capital budgeting measuring the profitability 
-of potential investments. Internal rate of return is a discount rate that makes the net present 
+of potential investments Internal rate of return is a discount rate that makes the net present 
 value (NPV) of all cash flows from a particular project equal to zero
 
 ROI is usually expressed as a percentage and is typically used for personal financial decisions, 
-to compare a company's profitability or to compare the efficiency of different investments. The 
-return on investment formula is: ROI = (Net Profit / Cost of Investment) x 100.
+to compare a company's profitability or to compare the efficiency of different investments The 
+return on investment formula is: ROI = (Net Profit / Cost of Investment) x 100
 
 NET PRESENT VALUE, the value in the present of a sum of money, in contrast to some future value 
-it will have when it has been invested at compound interest.
+it will have when it has been invested at compound interest
+
+Project Manager should consider stakeholder requirements for managing and planning cost.
+
+
+PLAN COST MANAGEMENT
+
+Plan Cost Management is the process that establishes the policies, procedures, and documentation for planning, managing, expending, and controlling project costs
+
+Inputs
+Project management plan
+	-Scope Baseline 
+	-Schedule Baseline
+	-Other
+		-Risk 
+		-communication decisions
+Project charter
+	- High level budget
+	- Project Approval requirements
+	
+Enterprise environmental factors
+	- Currency exchange rate
+	- Published commmercial information e.g resource rate
+	- PMIS- useful for providing alternative solution
+Organizational process assets
+	- Financial control systems
+	- Financial Databases
+	- Costing and budgeting related policies.
+	
+Tools & Techniques
+Expert judgment
+	- Senior or other PM or PMO can help in developing the CMP,
+	- Really helpful when doing projects that are similar to the others.
+	- Always helpful when feeling difficulty in creating plans
+Analytical techniques
+	- Analyses for whether developing organization will do self funding, funding with equity or funding with debt.
+	- IRR
+	- Payback
+	- NPV
+	- Discounted cash flow
+Meetings
+	- Project Manager, Project Sponsor, Selected team members, Selected Stakeholders are attendees.
+Outputs
+
+Cost management plan
+
+units of measure. 
+	Each unit used in measurements (such as staff hours, staff days, weeks for time 
+	measures; or meters, liters, tons, kilometers, or cubic yards for quantity measures			
+Level of precision.  US$100.49 to US$100, or US$995.59 to US$1,000).
+Level of accuracy. The acceptable range (e.g., ±10%) 
+organizational procedures links.  
+control thresholds. 
+	-Variance thresholds for monitoring cost performance 
+	-Thresholds are typically expressed as percentage deviations from the baseline plan.
+	-Define the points in the WBS at which measurement of control accounts will be performed;
+	-Establish the earned value measurement techniques (e.g., weighted milestones, fixed-formula, percent complete, etc.) to be employed; and
+	-Specify tracking methodologies and the earned value management computation
+reporting formats. The formats and frequency for the various cost reports are defined.Process descriptions. 
+Descriptions of each of the other cost management processes are documented.
+Additional details. 
+	-Description of strategic funding choices,
+	-Procedure to account for fluctuations in currency exchange rates, and
+	-Procedure for project cost recording
+
+Estimate Cost
+Estimate Costs is the process of developing an approximation of the monetary resources needed to complete project activities	
+
+Types of Estimates:
+
+"The different types of estimates are:
+	-Definitive: - 5% to +10% accuracy
+	-Budgetary: -10% to +25% accuracy
+	-Order of magnitude: - 25% to +75% accuracy
+So, if -5% to +10% variation is allowable, only 29 - 31 days fits that criterion.
+
+Type of costs:
+	-Fixed cost:
+		- Change with the amount of production, amount of work
+		- Cost of Matrial, Supplies & wages
+	-Variable cost
+		- Does not get changed when product gets changed
+		- Rent, utilities, cost of set up.
+	-Direct cost 
+		- Directly attributaable to the work of the project
+		- Team travel, Team Wages, recognition, cost of material used on the project
+	-Indirect Cost:
+		- utility bills (Mobile, gas, light, water, sanitation),janitorial services,taxes, fringe benefit 
+
+
+BENEFIT:
+The key benefit of this process is that it determines the amount of cost required to complete project work	
+	
+Inputs
+Cost management plan
+	- Level of accuracy
+	- Unit of measurements
+Human resource management plan
+	- Project staffing attribute
+	- personnel rates, and 
+	- related rewards/recognition
+	- Their skills
+Scope baseline
+	-Project Scope statement
+		-Product Charatceristics
+		-Project scope
+		-Product scope
+		-Key Deliverables
+		-Exclusions
+		-Assumptions
+		-Constraints
+		-Acceptance Criteria
+	-WBS
+		-Detail deliverables and Work packages
+    -WBS dictionary	
+Project schedule
+	- Activity resources and thier quantity
+	- Acitivty duration estimates.
+Risk register
+	-List of risk
+Enterprise environmental factors
+Organizational process assets
+
+Tools & Techniques
+Expert judgment
+
+Analogous estimating
+Parametric estimating
+Bottom-up estimating
+Three-point estimating
+Reserve analysis
+Cost of quality
+	-Cost of Conformance
+		-Preventive Cost
+			-Traning
+			-Documentation
+		-Appraisal Cost
+			-Testing
+			-Inspection
+			-Destructive Testing Loss
+	-Cost of Non Conformance
+		-Internal Failure
+			-Rework
+			-Scrap
+		-External Failure 
+			-Lost business 
+			-Liabilities
+			-Warrant work
+Project management software
+Vendor bid analysis
+	-Cost may incurr in performing activities when responding againts vendors bids,
+Group decision-making techniques
+	-Delphi(unanimity)
+	-Plurality
+	-Majority
+	-Dictatorship
+
+Outputs
+Activity cost estimates
+	-quantitative assessments of the probable costs
+	-e.g. are direct labor cost, Materials, Equipments, facilities, information technologies, inflation allownces
+Basis of estimates
+(At what basis, the estimates are derived are documented in a document)
+	-Documentation of the basis of the estimate (i.e., how it was developed),
+	-Documentation of all assumptions made,
+	-Documentation of any known constraints,
+	-Indication of the range of possible estimates (e.g., €10,000 (±10%) to indicate that the item is expected to cost between a range of values), and
+	-Indication of the confidence level of the final estimate.
+Project documents updates
+	-risk register.
+
+Determine Budget
+Determine Budget is the process of aggregating the estimated costs of individual activities or work packages to 
+establish an authorized cost baseline
+	
+Inputs
+Cost management plan
+Scope baseline
+	-Project Scope statement
+		-Product Charatceristics
+		-Project scope
+		-Product scope
+		-Key Deliverables
+		-Exclusions
+		-Assumptions
+		-Constraints
+		-Acceptance Criteria
+Activity cost estimates
+	-cost of monetrary resources
+Basis of estimates
+	-at what Basis estimates are derived
+Project schedule
+	-includes planned start and finish dates
+	-Milestone
+	-work packages
+	-Control accounts
+Resource calendars
+Risk register 
+Agreements
+	procurement agreement 
+	Contains terms and conditions
+	contains what the seller is to perform or provide
+	e.g. undersatnding,contract, subcontract, purchase order
+
+
+	Content of Agreements
+•	 Statement of work or deliverables,
+•	 Schedule baseline,
+•	 Performance reporting,
+•	 Period of performance,
+•	 Roles and responsibilities,
+•	 Seller’s place of performance,
+•	 Pricing,
+•	 Payment terms,
+•	 Place of delivery,
+•	 Inspection and acceptance criteria,
+•	 Warranty,
+•	 Product support,
+•	 Limitation of liability,
+•	 Fees and retainer,
+•	 Penalties,
+•	 Incentives,
+•	 Insurance and performance bonds,
+•	 Subordinate subcontractor approvals,
+•	 Change request handling, and
+•	   Termination clause and alternative dispute resolution (ADR) mechanisms. The ADR method can be decided 
+in advance as a part of the procurement award.
+Organizational process assets
+
+Tools & Techniques
+Cost aggregation
+	Step:1 Sum of cost of acitivities are rolled up to Work packages
+	Step:2 Sum of cost Work packages are rolled up to Control accounts
+	Step:3 Sum of cost Control accounts are rolled up to Project Costing
+	
+	NOTE: Step 1,2,3 is cost aggregating
+Cost Baseline= contigency reserves + Project Cost
+Budget = Management reserve + Cost baseline. 
+	
+OR	
+	
+    Step:1 Sum of cost of acitivities are rolled up to Work packages + contingency reserve
+	Step:2 Sum of cost Work packages are rolled up to Control accounts + contingency reserve
+	Step:3 Sum of cost Control accounts are rolled up to Project Costing + contingency reserve
+		
+	
+	
+Reserve analysis
+	-Injection of contingency reserves and Management Reserves 
+Expert judgment
+Historical relationships
+	- Cross verify the estimates using Parametric and analogous.
+	- Analyze the difference and take corrective actions
+Funding limit reconciliation
+	- checking cash flow 
+	- sometimes funds are not available when needed
+	- due to this imposed dates will be added in the PMP
+	- This is Funding limit reconcilation
+
+Outputs
+cost baseline
+	- approved baseline document
+	- Sponsor is responsible for approving it
+	- can only be changed through PICC
+	- contains project cost and contingency reserves.
+	- Time phased project
+	- Report through S-curve
+	
+	
+Project funding requirements
+	- Total and periodic funding requirements
+	- How and when the fund will be spend are document under Funding requirements document.
+
+Project documents updates
+	-Activity cost estimates
+	-Risk register
+	-Project Schedule
+	
+************************************************************************************************************************
+************************************************************************************************************************
+***********************************************CONTROL COST*************************************************************
+************************************************************************************************************************
+************************************************************************************************************************	
+	
+Control Costs is the process of monitoring the status of the project to update the project costs and managing 
+changes to the cost baseline. 
+
+BENEFIT
+The key benefit of this process is that it provides the means to recognize variance from the plan in order to take corrective action and minimize risk	
+	
+Project cost control includes:
+•	 Influencing the factors that create changes to the authorized cost baseline;
+•	 Ensuring that all change requests are acted on in a timely manner;
+•	 Managing the actual changes when and as they occur;
+•	 Ensuring that cost expenditures do not exceed the authorized funding by period, by WBS component, by activity, and in total for the project;
+•	 Monitoring cost performance to isolate and understand variances from the approved cost baseline;
+•	 Monitoring work performance against funds expended;
+•	 Preventing unapproved changes from being included in the reported cost or resource usage;
+•	 Informing appropriate stakeholders of all approved changes and associated cost; and
+•	 Bringing expected cost overruns within acceptable limits	
+	
+	
+.1 Inputs
+.1 Project management plan
+	Cost Baseline:
+	Cost Management Plan:
+	
+.2 Project funding requirements
+	- Total and periodic funding requirements
+	- How and when the fund will be spend are document under Funding requirements document.
+	
+.3 Work performance data
+	- which  activities have started, 
+	- which are ready to be validated.
+	- which have been formally accepted by the customer
+	- which are ready to be closed
+	- incurred cost can be determine from above mentioned activities
+	
+.4 Organizational process assets
+	- reporting formats
+	- Existing formal and informal cost control-related policies, procedures, and guidelines;
+	- Cost control tools; and
+	- Monitoring and reporting methods to be used.
+	
+.2 Tools & Techniques
+.1 Earned value management
+		- Planned PV:
+			- Authorized budget assigned to scheduled (Not included Management reserves)
+			- performance measurement baseline (PMB)
+					
+		- Earned Value EV:
+			- measure of work performed expressed
+			- budget associated with the authorized work that has been completed
+			- EV measured cannot be greater than the authorized PV budget for a component
+			- useful for measuring the project measurement.
+	
+		- Actual Value AC:
+			- realized cost incurred for the work performed on an activity during a specific time period
+			- total cost incurred in accomplishing the work that the EV measured
+		
+		- Schedule Variance:
+			- SV=EV-PV (interms of Planned Work)
+			- SV>1 means project is ahead. (e.g. 20 din me 40 kursiyan banani thee, 5 din bad 4 kursiyan banayeen, kya SV ho ga)
+			- SV<1 means project is behind.
+			- SV<0 means project is on time.
+			
+		- Cost Variance:
+			- CV=EV-AC (interms of Cost, directly cost)
+			- CV>1 means project is under budget.
+			- CV<1 means project is overbudget
+			- CV=0 means on budget.
+		
+		- Schedule performance index
+			- measure of schedule efficiency
+			- EV/PV
+			- SPI > 1 project is ahead (More work done in less time)
+			- SPI < 1 project is behind (less work done in more time)
+			- SPI = 1 Project is on time.
+		
+		- Cost performance index
+			- measure of cost efficiency
+			- EV/AC
+			- CPI > 1 project is ahead (More work done in less time)
+			- CPI < 1 project is behind (less work done in more time)
+			- CPI = 1 Project is on time.
+			
+.2 Forecasting
+			- 
+.3 To-complete performance index (TCPI)
+.4 Performance reviews
+	- 
+.5 Project management software
+.6 Reserve analysis
+	- whether contingency reserves/ management reserves that were previously planned are still necessary.
+	- Contingency reserve can be removed from the Cost baseline if risk has'nt occured.
+	- reassessment of management reserves.
+	- helpful for finding the estimated cost impact on the project objectives
+
+.3 Outputs
+.1 Work performance information
+.2 Cost forecasts
+.3 Change requests
+.4 Project management plan updates
+.5 Project documents updates
+.6 Organizational process assets updates

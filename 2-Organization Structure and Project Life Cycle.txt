@@ -1,0 +1,307 @@
+
+
+Important Point
+
+- understanding the impact of cultural influences is critical in projects involving diverse organizations and locations around the world
+- project managers in distant locations are able to more effectively communicate with all relevant stakeholders within the organizational structure to 
+facilitate decision making
+
+Organization structure
+
+Functional
+	-Functional Manager is a department Head
+	-One clear superior to team member
+	-Resource availability is  little of none for PM
+	-PM authority is little or none
+	-Grouped by speciality
+	-Idependent work
+	-FM will conduct budget
+	-For a critical project PROJECTIZED TEAM may be created in Function organization
+
+Matrix
+reflect a blend of functional and projectized characteristics.
+	-Weak Matrix
+		-PM authority is low
+		-FM authority is high
+		-Resorce availability is low
+		-FM will conduct budget
+		-PM is Expiditor or Co ordinator
+		-Expiditor cannot make decision
+		-Co ordinator has some power to make decision
+		-Report to high level manager
+	-Balanced Matrix 
+		-PM authority is Moderate
+		-FM authority is Moderate
+		-Resource availability is Moderate
+		-MIXED will conduct budget
+	-Strong Matrix
+		-PM authority is High
+		-FM authority is Low
+		-Resorce availability is High
+		-PM will conduct budget
+		-Full staff administration
+
+Projectized
+	-team members are often colocated
+	-PM authority is High
+	-FM authority is Low
+	-Resorce availability is High
+	-PM will conduct budget
+	-Full staff administration
+	-great deal of independence and authority
+
+composite organization
+	-Mixture of functional, Matrix, Projectized
+
+
+Many organizational structures include 
+
+	-strategic, 
+	-middle management, and 
+	-operational levels.
+
+2.1.4 organizational Process Assets
+
+Many organizational structures include strategic, middle management, and operational levels.
+
+2.1.5 Enterprize Environmental structure
+
+	-Stakeholder risk tolerance
+	-Political climate
+	-Organization structure cultur , governance
+	-Geographic Distribution
+	-Quality standards.
+	-Workmanship standards.
+	-Product standards
+	-Codes of coduct.
+	-Infrastructure
+	-Existing Human Resources
+	-Existing organization communication channels
+2.2 Project Stakeholders and Governance
+
+Stakeholder	
+	-Assembly line worker
+	-Individual (Person, Organization)
+	-Group (People)
+	-May affect / May be Affected
+	-May effect Positively
+	-May effect Negatively
+	-May effect project deliverable which produces outcomes which satisfies the strategic objective.
+
+Examples:
+	-Sponsor
+		- Champion
+		- Help for project funding, resources.
+		- spokesperson to higher levels of management
+		- One person
+		- More than one Person
+		- Accountable for Enabling success
+		- May create project Charter
+		- may be external or internal to the project manager’s organization
+		- Involves from Initiation to Closure.
+		- Responsible for authorizes the project to PM
+		- Responsible for Scope changes authorization
+		- Responsible for go/ no go Decision.
+		- Responsible for Phase reviews
+		- Responsible for transfering the deliverables to the organization who actually uses the product, service or result 
+	
+	-Customer/Users
+		- Person/ Organization 
+		- Manages/ Approve Verified deliverables 
+		- Give formal Acceptance.
+		- Actual user of Product, Service or result.
+		- May be internal/ external
+	
+	-Sellers
+		- Vendors
+		- Contractors
+		- Suppliers
+		- Involve through contractual agreement
+		- Responsible for providing the services, that are not available in perofrming organization
+
+	-Business Partners
+		- External organizations
+		- Provide specialized expertise.
+		- Example installation, support, Training
+
+	-Organization groups
+		- Internal in the organization
+		- Affected BY activities of Project Team
+		- Orgniazation departs,HR, Finance, Operation
+		- May be responsible for input for requirement documentation
+	
+	-Functional Manager
+		-Head of Adminstrative or Functional area 
+		-Contain specialized group for carying on on going operations
+		-Clear directions
+		-Contain SMEs
+		-Help in approving plans
+	
+	-Other Stakeholders
+		-procurement entities, 
+		-financial institutions, 
+		-government regulators, 
+		-subject matter experts, 
+		-consultants
+	
+Stakeholder Classification
+	-Internal
+	-External
+	-Positive 
+	-Negative
+	-Performing
+	-Advising
+
+Stakeholder Engagement Level
+	-Nuetral
+	-Supportive
+	-Unaware
+	-Leading
+	-Resisting
+
+Identification of Stakeholders
+	-continuous process throughout the entire project life cycle
+	-Critical for the project success
+	-Can cause delays which cause schedule overrun which causes cost overrun
+	-Example legal department is a significant stakeholder.
+
+Useful for
+	-Requirement Identification
+	-Identy communication channels
+	-Risk identification
+	-Identification of Stakeholder expectations
+	-Identification of Stakeholder engagement levels
+
+Project Stakeholders
+	-Team members and external entities
+	- Project Team 
+		-Sponsor 
+		-Project Management Team+
+		-Project manager+
+		-Other Team members
+	
+	- Project Stakeholders 
+		-Project Team
+		-Customer/End user
+		-Operations
+		-Functional Manager
+		-Sellers
+		-Business Partners
+		-PMO
+		-Program Manager 
+		-Portfolio Manager
+
+Project Governance
+	-Alignment the projects with business strategy 
+	-framework in which the project manager and sponsors can make decisions 
+	-satisfy stakeholder needs and 
+	-satisfy stakeholder expectations 
+	-Satisfy organizational strategic objectives
+	-Encompasses the Project life cycle
+	-Provides Frame work for Managing the projects, for project success, for aligning the project objective with the organization strategy
+	-Responsibles are portfolio manager, program manager, or organization sponsoring entity
+
+Framework of Project Governance
+•	 Project success and deliverable acceptance criteria;
+•	 Process to identify, escalate, and resolve issues that arise during the project;
+•	 Relationship among the project team, organizational groups, and external stakeholders;
+•	 Project organization chart that identifies project roles;
+•	 Processes and procedures for the communication of information;
+•	 Project decision-making processes;
+•	 Guidelines for aligning project governance and organizational strategy;
+•	 Project life cycle approach;
+•	 Process for stage gate or phase reviews;
+•	 Process for review and approval for changes to budget, scope, quality, and schedule which are beyond the authority of the project manager; and
+•	 Process to align internal stakeholders with project process requirements.
+	
+
+SUccess of Project
+	-Completing the project with in below mentioned constraint
+		1.Scope, 
+		2.Time, 
+		3.Cost, 
+		4.Quality, 
+		5.Resources, 
+		6.Risk
+	-PM is accountable for setting realistic
+	
+Basic Project Teams Composition
+
+	- Part time
+		- Functional Manager is a king
+		- No Control for PM
+		- Team member works in multiple teams
+		- Matrix, Functional
+	- Dedicated
+		- All or majority project Team members are assigned
+		- Usually report to the project manager
+		- Team may be colocated or virtual
+		- Simplest structure for project Manager
+		- Projectized
+
+Project Life Cycle
+	-series of phases 
+	-from its initiation to its closure
+	-Sequential
+	-Phases are generally time bounded
+	-Provides basic framework for managing project irrespective of work.
+
+Types of Project life Cycle:
+	-Predictive
+		- Fully plan driven (scope is well defined)
+		- Deliverables and processes are well defined at the beginning of the Project
+		- distinct work in each phases
+		- require different skill set in team.
+		- Team focuses on plaining the scope, scedule and cost from the start as soon as possible
+		- Preventing scope changes, but if happens, replaning occurs and change control is there.
+		- Rolling wave planing may occurs.
+		
+	-Adaptive
+		- Change driven 
+		- Also iterative and incremental
+		- sprints
+		- The product is developed over multiple iterations and detailed scope is defined for each iteration only as the iteration begins.
+		- Useful in rapid change environment
+	-Iterative/Incremental
+		- iterations
+		- Iterations in Project activies
+		- increments in product functionality
+		- High level vision is given for 1st iteration, then iteratively developed
+		- Administrative closure will be done at the end of each Iteration.
+		- Useful when partial delivery of the product is beneficial
+		
+
+
+Project life cycle Characteristics 
+
+- Cost is low in the start
+- Staffing is low in the start
+- Cost is high in the execution
+- Staffing is high in the execution
+- Risk is high in the start/initiation (decreases as decision are made/ deliverables)
+- Risk is low in the closure
+- ability to influence the final characteristics of the project’s product highest in the start
+- ability to influence the final characteristics of the project’s product get decreases as project progresses
+
+Project Phases
+
+	-collection of logically related project activities that produces deliverable
+	-Its results in deliverable
+	-in general Executed sequentially, but can be overlapped
+	-Might have different durations
+	-Closure of the Phase results in hand off the deliverable with formal acceptance	
+	-Can terminate at phase end (Stage gate,Milestone,kill point)
+
+
+Phase to Phase relationship
+	-Sequential Relationship
+		-Step by step
+		-Finsih to Start
+		-reduces uncertainity
+		-Low chances for Schedule reduction
+	-Overlapping Relationship
+		-Fast Tracking
+		-Phase starts prior to completion of the one.
+		-High uncertainity
+		-Might reduce the schedule.
+		-Example Building a new factory.

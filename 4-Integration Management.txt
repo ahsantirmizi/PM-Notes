@@ -68,6 +68,11 @@ Depreciation
 - Accelerated depreciation
  -
 
+Develop  Project Charter:
+Develop Project Charter is the process of developing a document that formally authorizes the existence of a 
+project and provides the project manager with the authority to apply organizational resources to project activities
+
+
 
 input
 
@@ -81,3 +86,393 @@ input
 Tools & Technique
 
 Output
+********************************************************************************************************************************
+********************************************************************************************************************************
+*******************************************4.4 Monitor and control Project Work*************************************************
+********************************************************************************************************************************
+********************************************************************************************************************************
+
+Monitor and Control Project Work is the process of tracking, reviewing, and reporting the progress to meet the 
+performance objectives defined in the project management plan
+
+Benefit
+The key benefit of this process is that it allows stakeholders to understand the current state of the project, the steps taken, and budget, schedule, and scope 
+forecasts
+
+INPORTANT ACTIVITIES
+
+1.Perform throughout the project life cycle.
+2.involves collection data generated from different processes(WPI-work performance information)
+	- CONTROL SCOPE
+		- Compare the performance of the project scope and product scope vs scope baseline.
+		- observing scope creeping.
+		- observe whether all change requests are processed through  PICC.
+	- CONTROL SCEDULE
+		- Compare the performance of the Schedule vs scope baseline.
+		- Forecasted Schedule.
+	- CONTROL COST
+		- Compare the performance of the cost vs scope baseline.
+		- Earned Value Management
+		- Forecasted cost
+	- PERFORM QUALITY ASSURANCE
+		- Whether a process is correctly executed or not.
+		- Auditing a process to check the stability.
+	- CONTROL QUALITY
+		- Any non confirmance to the product or project.
+		- whether product is upto the Quality standards.
+	- MANAGE PROJECT TEAM
+		- tracking team member performance, providing feedback, resolving issues, and managing changes to optimize project performance
+	- CONTROL COMMUNICATION
+		- Checking whether commucation needs of the project stakeholders are met 
+	- CONTROL RISKS
+		- Implementing risk response strategies
+		- Identifying new risk.
+		- Review watch list 
+	- CONTROL PROCUREMENTS
+		- Checking whether procurements are upto the mart, meet expection.
+		- Monitoring contract performance
+		- Managing procurement relationship
+	- MANAGE STAKEHOLDER ENGAGEMENT
+		- whether stakeholder needs and expectation are met
+		- Stakeholders concerns are reported as issue logs.
+	- CONTROL STAKEHOLDER ENGAGEMENT
+		- project stakeholder relationships and 
+		- adjusting strategies and 
+		- plans for engaging stakeholders.
+		
+3.involves continous improvement
+4.involves identification of variances with the baselines
+5.involves identification of Causes of variances
+6.involves identification of Corrective, preventive and defect repair as change request.
+7.invloves creating reports.
+8.Updating project Management Plan.
+9.Update project Documents
+10.update OPA
+
+
+INPUT
+
+.1 Project management plan 
+	- All subsidiary project management plans
+	
+.2 Schedule forecasts
+	- Calculated against schedule baseline.
+	- Calculated SPI, Schedule performance Index, SPI>1 means project is ahead, SP<1 means project is behind
+	- Calculated SV, Schedule variance
+	- Control threasholds, tolerances
+	
+.3 Cost forecasts
+	- Calculated against Cost baseline.
+	- Calculated CPI, Schedule performance Index, CPI>1 means project is under budget, CPI<1 means project is Over budget
+	- Calculated CV, Cost variance
+	- Control threasholds, tolerances
+	
+.4 Validated changes
+	- output from 8.3 control quality,
+	- QC team is responsible for validate whether approved changes are validated.
+	- How many approved changes are implemented.
+	
+.5 Work performance information
+	- Transformed WPD.
+	- provides a sound foundation for project decisions.
+.6 Enterprise environmental factors
+	- Stakeholder risk tolerances.
+	- 
+.7 Organizational process assets
+
+TOOL AND TECHNIQUE
+
+.1 Expert judgment
+	- The project manager
+	- Project team
+.2 Analytical techniques
+	forecast potential outcomes based on possible variations of project or environmental variables and their relationships with other variables
+	
+	•	 Regression analysis,
+	•	 Grouping methods,
+	•	 Causal analysis,
+	•	 Root cause analysis,
+	•	 Forecasting methods (e.g., time series, scenario building, simulation, etc.),
+	•	 Failure mode and effect analysis (FMEA),
+	•	 Fault tree analysis (FTA),
+	•	 Reserve analysis,
+	•	 Trend analysis,
+	•	 Earned value management, and
+	•	 Variance analysis.
+		
+.3 Project management information system
+	- Work authorization system
+	- Automated software tool
+	- Cost tools.
+	- Resourcing 
+.4 Meetings
+	- face-to-face, virtual, formal, or informal
+	- 
+
+Output
+
+.1 Change requests
+
+	corrective action
+		—An intentional activity that realigns the performance of the project work with the project management plan;
+	Preventive action
+		—An intentional activity that ensures the future performance of the project work is aligned with the project management plan; and
+	defect repair
+		—An intentional activity to modify a nonconforming product or product component.
+		
+.2 Work performance reports
+	- physical or electronic representation of work performance information
+	- subset of Project documents
+	- Useful for generating decisions, actions, or awareness.
+	- Examples are 
+		-status reports, 
+		-memos, 
+		-justifications, 
+		-information notes, 
+		-recommendations, and updates.
+	
+.3 Project management plan updates
+
+	•	 Scope management plan (Section 5.1.3.1),
+	•	 Requirements management plan (Section 5.1.3.2),
+	•	 Schedule management plan (Section 6.1.3.1),
+	•	 Cost management plan (Section 7.1.3.1),
+	•	 Quality management plan (Section 8.1.3.1),
+	•	 Scope baseline (Section 5.4.3.1),
+	•	 Schedule baseline (Section 6.6.3.1), and
+	•	 Cost baseline (Section 7.3.3.1)
+.4 Project documents updates
+
+	•	 Schedule and cost forecasts,
+	•	 Work performance reports, and
+	•	 Issue log.
+	
+********************************************************************************************************************************
+********************************************************************************************************************************
+*******************************************Perform integrated change control****************************************************
+********************************************************************************************************************************
+********************************************************************************************************************************	
+	
+Perform Integrated Change Control is the process of reviewing all change requests; approving changes and 
+managing changes to deliverables, organizational process assets, project documents, and the project management 
+plan; and communicating their disposition, approves or rejects the changes.
+
+Benefits	
+	
+1. documented changes
+2. reducing risk.
+3. Impact Analysis.
+
+Important point:
+
+1. its better to prevent change, rather than changing, trying to find out the root cause that can cause a change
+2. if changes are required, better to change in the early stages rather than on later stages
+3. changes can have negative or positive impact, not always bad.
+4. changes may be arised by sponsor , customer or project manager him/herself
+5. Exessive change can cause impossible for PM to co ordinate the work. 
+6. As per PMI, all projects must have CCB change control board (Formally charttered group).
+7. Change control board possess experts and reduce technical depandency.
+8. Change control board is responsible for approving, posponing and rejecting changes.
+9. CCB may contain customer, expert, project sponsor, project Manager, functional Manager
+10.in case of approval or rejection, PM documents the CCB's decision in Change log.
+11.in case of Approval, the approved requests are executed through DIRECT AND MANAGE PROJECT WORK.
+12.Get customer buy in. 
+
+HOW TO CONTROL CHANGES:
+1. Conduct proper use of Identify stakeholder to uncover requirements
+2. Spend enough time on proper risk management.
+3. Proper plan for cost and time reserves
+4. have a process of change control
+5. Follow the change control process
+6. have a change requests templates
+7. Have clear roles and responsibilities for approved or reject changes
+8. Re-evaluate the business case if excessive number of changes 
+9. consider terminating the project if too many excessive changes occurs and initiate a new project with more complete requirement
+10. allow only approved changes to the baselines.
+
+General Steps for handling the change request:
+-Prevent the root cause of change
+-Identify change
+-look at the impact of the change with in the knowledge area
+-Create a change request
+-PICC
+	-Assess the change: 
+		check whether change lie with in project charter, if not initiate another project.
+		if change is beneficial to the existing project? if not, then reject the change.
+		
+	-Look for option
+	-Change is approved or rejected
+	-Update the status of change request in the change log 
+		Reasons for rejection should be documented.
+	-update plans and  documents
+	 e.g a change in scope can cause update in WBS, WBS dictionary, Scope baseline, activity list, HRM, Stakeholder register, risk register.
+	
+-Manage stake holder expectation by communicating the change log to stakeholder that are affected by change.
+-Manage the project.
+
+-Configuration management activities in PICC
+	-Configuration management is focused on specifying deliverables and processes.
+		- configuration identification.
+			-Labeling of items
+			-Accountibility is maintained.
+		- configuration status accounting. 
+			-Status of proposed changes
+			-who authorize the change
+			-what time
+			-number of changes
+		- configuration verification and audit.
+			-
+
+Example:	
+ -particular change to scope can create an impact to below mentioned project constraint
+  1.time
+  2.cost
+  3.Risk
+  4.resources
+  5.Customer satifaction.
+  
+
+INPUT
+	
+.1 Project management plan
+	-
+.2 Work performance reports
+	-
+.3 Change requests
+	-
+.4 Enterprise environmental factors
+	-
+.5 Organizational process assets 
+	-
+
+TOOL AND TECHNIQUE
+
+.1 Expert judgment
+.2 Meetings
+.3 Change control tools
+
+OUTPUT
+
+.1 Approved change requests
+.2 Change log
+.3 Project management plan updates
+.4 Project documents updates 
+	
+	
+********************************************************************************************************************************
+********************************************************************************************************************************
+***********************************************************4.6 CLosing**********************************************************
+********************************************************************************************************************************
+********************************************************************************************************************************
+
+
+
+Key Activities of Closing :
+
+-Confirm that all the requirements have been met.
+-Close Procurements. 
+	-Within this process, multiple action are involved such as:
+	-Verify the product.
+	-Issue formal acceptance.
+	-Conduct a procurement audit.
+	-Report final contract performance.
+	-Document lessons learned.
+	-Perform financial closure of the contract (make the payments).
+-Get formal acceptance of the product (product, service or result) of the project.
+-Measure customer satisfaction.
+-Perform financial closure of the project.
+-Report final project performance.
+-Document lessons learned.
+-Update project records.
+-Archive project records.
+-Hand-off the completed product.
+-Release the team and other resources.
+
+http://www.deepfriedbrainproject.com/2010/04/pmp-order-activities-closing-process.html
+
+**********************************************************************************************************************************************************
+
+Project Close or Phase Close:
+
+process of finalizing all activities across all of the Project Management Process groups to formally complete the project or phase.
+
+Benefit:
+-Formal way of finalizing the activities among process group 
+-Project or Phase can be closed  
+
+PM Activities
+
+
+-PM measures project scope against PM Plan 
+-Review all prior information from the previous phases closure
+-reviews the scope baseline to ensure completion before considering the project closed.
+-Engagement of ALL proper stakeholders in the process.
+- If terminate, investigate and document the reason for termination 
+
+Administrator Closure
+-Transit or move product, service or result to Operation department
+-Satisfy completion Criteria
+-Collect Phase closed record, audit Success and Failure.
+-Archve Project Information for future use.
+
+
+INPUT
+.1 Project management plan.
+	- Scope Baseline
+	- PMP act as agreement.
+.2 Accepted deliverables
+	- Product specification
+	- Accepted list of Deliverables
+	- Deliverable Reciepts
+	- Partial deliverable (Incase of Termination)
+	- Deliverable Documentation
+
+.3 Organizational process assets
+	-Closing guidelines
+	-Transition guidelines
+	-Archiving guidelines
+	-Project Evauation
+	-Project Audit
+	
+TOOL
+.1 Expert judgment
+	- PMO
+	- Other PM
+	- Professional and Technical association.
+.2 Analytical techniques
+	-Trend Analysis
+		- Project/Product evaluation technique
+		- relation between Indepandent variable and depandent variable
+		- Useful for Cost variance, scheduel variance for future projects.
+		- Use ful in estimation
+	-Regresison Analysis
+		- Project/Product evaluation technique
+		- relation between Indepandent variable and depandent variable
+		- Useful for Cost variance, scheduel variance for future projects.
+		- Use ful in estimation
+.3 Meetings
+	- face-to-face, 
+	- virtual, 
+	- formal, or informal
+OUTPUT
+1 Final product, service, or result transition
+	- intermediate product, service, or result of that phase (Incase of Phase Closure)
+	- Complete product, service, or result of that phase (Incase of Project Closure)
+2 Organizational process assets updates
+	- Project Files
+		- project management 
+		- plan; 
+		- scope, 
+		- cost, 
+		- schedule, and 
+		- project calendars; 
+		- risk registers and 
+		- other registers; 
+		- change management documentation; 
+		- planned risk response actions; 
+		- and risk impact.
+	- Project Closure or phase closure documents
+	- Historical Information
+	
+
+**********************************************************************************************************************************************************

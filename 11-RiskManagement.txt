@@ -1,39 +1,85 @@
 IMPORTANT TERMS
-Risk: An uncertain event or condition that, if it occurs, has a positive or negative effect on one or more project objectives.
+Risk: 
+	An uncertain event or condition that. 
+	has a positive or negative effect on one or more project objectives.
 
-Risk response: it is the process of developing strategic options, and determining actions, to enhance opportunities and reduce threats to the project's objectives
+Risk response: 
 
-Risk Acceptance: A Risk response strategy whereby the project team decides to acknowledge the Risk and not take any action unless the Risk occurs.
+	-developed strategic options against risk, 
+	-determined  actions, 
+	-useful for enhaning opportunities to the project's objectives 
+	-useful for reducing threats to the project's objectives
 
-Risk Appetite:The degree of uncertainty an entity is willing to take on, in anticipation of a reward.
+Risk Acceptance: 
+	-A Risk response strategy 
+	-project team decides to acknowledge the Risk 
+	-not take any action unless the Risk occurs.
 
-Residual risk: A risk that remains after risk responses have been implemented.
+Risk Appetite:
+	-The degree of uncertainty an entity is willing to take on, in anticipation of a reward.
 
-Risk Attitude:Risk attitudes are people's intentions to evaluate a Risk situation in a favorable or unfavorable way and to act accordingly.
+Residual risk: 
+	-A risk that remains after risk responses have been implemented.
 
-Risk Breakdown Structure (rBS): A hierarchical representation of Risks according to their Risk categories.
+Risk Attitude:
+	-Risk attitudes are people's intentions 
+	-to evaluate a Risk situation in a favorable or unfavorable way and to act accordingly.
 
-Risk categorization: Organization by sources of Risk (e.g., using the RBS), the area of the project affected (e.g., using the WBS), or other useful category (e.g., project phase) to determine the areas of the project most exposed to the effects of uncertainty.
+Risk Breakdown Structure (rBS): 
+	- hierarchical representation of Risks 
+	- expressed by their categories.
+
+Risk categorization: 
+	- Organization by sources of Risk (e.g., using the RBS), 
+	- the area of the project affected (e.g., using the WBS), 
+	- or other useful category (e.g., project phase) to determine the areas of the project most exposed to the effects of uncertainty.
 
 Risk category: A group of potential causes of Risk.
 
-Risk data Quality Assessment: Technique to evaluate the degree to which the data about Risks is useful for Risk management.
+Risk data Quality Assessment: 
+	- basically and technique
+	- for assessment of quality of data used for risk management.
+	- Technique to evaluate the degree to which the data about Risks is useful for Risk management.
 
 Risk Management Plan: A component of the project, program, or portfolio management plan that describes how Risk management activities will be structured and performed.
 
 Risk Mitigation: A Risk response strategy whereby the project team acts to reduce the probability of occurrence or impact of a Risk.
 
-Risk reassessment: Risk reassessment is the identification of new Risks, reassessment of current Risks, and the closing of Risks that are outdated.
+Risk reassessment: 
+	-basically a process
+	-identification of new Risks.
+	-reassessment of current Risks.
+	-closing of Risks that are outdated.
+	-Useful for control risk process
 
-Risk register: A document in which the results of Risk analysis and Risk response planning are recorded.
+Risk register: 
+	-basically a project document.
+	-Contains list of register. 
+	-risk priority
+	-Risk Impact
+	-Risk Impact in terms of quantitaty
+	-A document in which the results of Risk analysis and 
+	-Risk response planning are recorded.
+	-Risk response strategy against risk
 
-Risk threshold: Measure of the level of uncertainty or the level of impact at which a stakeholder may have a specific interest: Below that Risk threshold, the organization will accept the Risk: Above that Risk threshold, the organization will not tolerate the Risk.
+Risk threshold: 
+	-Measure of the level of uncertainty or 
+	-the level of impact at which a stakeholder may have a specific interest: 
+	-Below that Risk threshold, the organization will accept the Risk: 
+	-Above that Risk threshold, the organization will not tolerate the Risk.
 
-Risk tolerance: The degree, amount, or volume of Risk that an organization or individual will withstand.
+Risk tolerance: 
+	-The degree, 
+	-amount, or 
+	-volume of Risk that an organization or individual will withstand.
 
-Risk transference: A Risk response strategy whereby the project team shifts the impact of a threat to a third party, together with ownership of the response.
+Risk transference: 
+	-A Risk response strategy 
+	-project team shifts the impact of a threat to a third party, 
+	-Both ownership of the response.
 
-Risk urgency Assessment: Review and determination of the timing of actions that may need to occur sooner than other Risk items.
+Risk urgency Assessment: 
+	-Review and determination of the timing of actions that may need to occur sooner than other Risk items.
 
 
 HOW ORGANIZATION ENVIRONMENT CONTRRIBUTES IN PROJECT RISK.
@@ -45,11 +91,17 @@ concurrent multiple projects, or
 dependency on external participants who are outside the project’s direct control.
 
 
-Known,known: Those risk that has being identified and managed proactively, planned response
-Known,unknown: Those risk that has being identified but not managed proactively, there must be contingency reserve for that
-Unknow,unknown: Those risk that has not being identified and not managed proactively, there must be Management Reserve
+Known,known: 
+	Those risk that has being identified and managed proactively, 
+	planned response
+Known,unknown: 
+	Those risk that has being identified but not managed proactively, 
+	there must be contingency reserve for that
+Unknow,unknown: 
+	Those risk that has not being identified and not managed proactively, 
+	there must be Management Reserve
 
-Positive and negative risks are commonly referred to as opportunities and threats
+Positive and negative risks are commonly referred to as opportunities and threats respectively
 
 To be successful, an organization should be committed to address risk management proactively and consistently throughout the project
 
@@ -125,73 +177,191 @@ Output
 			Observe figure 11.1 in PMBOK the definition of risk probability and impact   
 		7.Probability and impact risk:The table between impact and probability
 		8.Stakeholder revised tolerance: Assessment of Stakeholder attitude and response towards risk
-		9.Reporting; 
+		9.Reporting format: 
 		10.Tracking : predicted risk have been occured or not in the executing.
 
-Identify Risk
+
+********************************************************************************************************
+********************************************************************************************************
+*********************************************Identify Risk *********************************************
+********************************************************************************************************
+********************************************************************************************************
+
+Identify Risks is the process of determining which risks may affect the project and documenting their characteristics
+
+Responsible Persons:
+-Project Manager
+-Team
+-Customer
+-User
+-SME
+-Other Project Managers
+-
 
 Inputs
- .1 Risk management plan
- .2 Cost management plan
- .3 Schedule management plan
- .4 Quality management plan
- .5 Human resource
-  management plan
- .6 Scope baseline
- .7 Activity cost estimates
- .8 Activity duration estimates
- .9 Stakeholder register
-    .10 Project documents
-    .11 Procurement documents
-    .12 Enterprise environmental  
-  factors
-   .13 Organizational process assets
+Risk management plan
+	- Roles and reponsiblities
+	- Provisions for risk Management activities in Cost baseline and schedule baseline
+	- RBS
+Cost management plan
+	- control threasholds
+	- Level of accuracy
+Schedule management plan
+	- control threasholds
+	- Level of accuracy	
+Quality management plan
+	- baseline of quality measures and metrics for use in identifying risks.
+Human resourcemanagement plan
+	- Staff management plan
+	- Project Organization chart
+	- Resources 
+	- competency, experience of resources
+Scope baseline
+	- Assumptions
+		 Uncertainty in project assumptions should be evaluated as potential causes of project risk
+		 Control accounts, work package level where risk can be tracked
+Activity cost estimates
+	- As it is quanitative, 
+	- cost to complete scheduled activities and ideally are expressed as a range, with the width of the range indicating the degree(s) of risk
+Activity duration estimates
+	- width of the range of such estimates of time can have risks 
+Stakeholder register
+	-stakeholder, sponsor, and customer are interviewed or otherwise participate during the Identify Risks process
+Project documents
+	-Project charter,
+	-Project schedule,
+	-Schedule network diagrams,
+	-Issue log,
+	-Quality checklist, and
+	-Other information proven to be valuable in identifying risks.
+Procurement documents
+	-external procurement of resources
+Enterprise environmental factors
+	-Published information, including commercial databases,
+	-Academic studies,
+	-Published checklists,
+	-Benchmarking,
+	-Industry studies, and
+	-Risk attitudes.
+Organizational process assets
+	-Project files, including actual data,
+	-Organizational and project process controls,
+	-Risk statement formats or templates, and
+	-Lessons learned.
 
-
- 
 Tools & Techniques
- .1 Documentation reviews
- .2 Information gathering   
-  techniques
- .3 Checklist analysis
- .4 Assumptions analysis
- .5 Diagramming techniques
- .6 SWOT analysis
- .7 Expert judgment
-. 3  Outputs
- .1 Risk register
-.
 
-Perform Qualitative
+	Documentation reviews
+		-Project files from previous projects
+		-Project management plans
+		-Risk register from previous projects
+		
+	Information gathering techniques
+		Brainstorming:
+			-Generating ideas from the group of people or stakeholder.
+			-facilitator conduct the session
+			-in risk identification team uses RBS and try to identify the risk
+		Delphi:
+			Every one agrees on a single decision.
+			way to reach on Concensus	
+			Responses are desried from a group of experts.
+			Responses kept secret 
+			Expert participate anonymously
+			Avoid biasness	
+		Interviewing:
+			-Formal/ Informal Approach
+			-Directly to the person.
+			-One on One or One to Group
+			-Helps in identifying Confidential information.
+	Root Cause Analyses:
+		used to identify a problem, discover the underlying causes that lead to it
+	Checklist analysis
+		-developed based on historical information
+		-information collected from previous projects.
+		-Lowest level of RBS can also be used as "RISK CHECKLIST"
+		-Simple and quick
+	Assumptions analysis
+		- Analysis of hypotheses, scenarios, or assumptions listed in the project scope statement, which is a part of scope baseline.
+		
+	Diagramming techniques
+		- cause and effect diagrams
+			- ishikawa or fishbone
+			- Useful for identification of Causes of risk.
+		- System or process flow charts.
+		- Influence diagrams:ausal influences, time ordering of events, and other relationships among variables
+		
+	SWOT analysis
+		- Technique
+		- Strength, weakness, opportunities, Threats.
+		- identification of strengths and weaknesses of the organization
+		- Focuses possible opportunities arises from the strengths
+		- Focuses possible threats arises from the weaknesses.
+	Expert judgment
+	-
+
+Outputs
+
+Risk register
+	List of Identified risk:
+		- high level in initial level i.e. 
+		- as other risk management process get conducted, the more details will be included for risk register.
+		- this document will be updated after perform qualitative risk analyses, as risk impact and probability has been identified.
+		- this document will be updated after perform quantitativetative risk analyses, as quantified detail for risks has been identified.
+		- this documetn will be updated after plan risk response process, once detail response have been identified.
+		- Once controlling the risk, this document gets updated if new risks are identified
+	List of potential response:
+		-High level or potential risk response after identify risk 
+
+********************************************************************************************************
+********************************************************************************************************
+******************************Perform Qualitative Risk Analyses ****************************************
+********************************************************************************************************
+********************************************************************************************************
+
 
 Perform Qualitative Risk Analysis is the process of prioritizing risks for further analysis or action by assessing and combining their probability of occurrence and impact. 
 
 Benefit:
+helps in prioritizing risks for further analysis.
+helps in identifying probability 
+helps in idenfitying impact.
 
+Benefit:
 The key benefit of this process is that it enables project managers to reduce the level of uncertainty and to focus on high-priority risks.
 Perform Qualitative Risk Analysis is usually a rapid and cost-effective means of establishing priorities for Plan Risk Responses
 The Perform Qualitative Risk Analysis process is performed regularly throughout the project life cycle
 
+Important point
+-it is a Subjective 
+-Key participants are expected to be involved to avoid bias and take corrective actions.
+-quick
+-Cost effective
+-Foundation for Quantitative analysis
+-Iterative, regularly throughout the life cycle
+-Its next process may be Perform Qauntitative or it may move directly to Plan risk response
+
 Inputs
 
  .1 Risk management plan
-	roles and responsibilities for conducting risk management, 
-	budgets, 
-	schedule activities for risk management, 
-	risk categories, 
-	definitions of probability and impact, 
-	the probability and impact matrix, 
-	and revised stakeholders’ risk tolerances
+	-roles and responsibilities for conducting risk management, 
+	-budgets, 
+	-schedule activities for risk management, 
+	-risk categories, 
+	-definitions of probability and impact, 
+	-the probability and impact matrix, 
+	-and revised stakeholders’ risk tolerances
 
  .2 Scope baseline
 	Projects of a common or recurrent type tend to have more well-understood risks.
+	state-of-the-art or first-of-its-kind technology, and highly complex projects, tend to have more uncertainty
+ 
  .3 Risk register
 	List of idendified risks
 	ROles and responsibolities
 	Date of Identified
 	POTENTIAL risk response
- .4 Enterprise environmental  
-  factors
+	
+ .4 Enterprise environmental factors
  .5 Organizational process assets
 
  
@@ -199,28 +369,51 @@ Tools & Techniques
 
  .1 Risk probability and impact assessment
 
-	Risk impact assessment is the process of assessing the probabilities and consequences of risk events if they are realized. The results of this assessment are then used to prioritize risks to establish a most-to-least-critical importance ranking. Ranking risks in terms of their criticality or importance provides insights to the project's management on where resources may be needed to manage or mitigate the realization of high probability/high consequence risk events.
-
-	Risk impact assessment investigates the potential effect on a project objective such as schedule, cost, quality, or performance
-	Risks can be assessed in interviews or meetings
-	
+		- Basically a process
+		- process of assessing the probabilities and consequences of risk events if they are realized. 
+		- used to prioritize risks to establish a most-to-least-critical importance ranking. 
+		- Ranking risks in terms of their criticality or importance provides 
+		- useful for insights to the project's management on where resources may be needed to manage or mitigate the realization of high probability/high consequence risk events.
+		- investigates the potential effect on a project objective such as schedule, cost, quality, or performance
+		- Risks can be assessed in interviews or meetings
+		
 
  .2 Probability and impact matrix
-
-The risk score helps guide risk responses. For example, risks that have a negative impact on objectives, otherwise known as threats if they occur, and that are in the high-risk (dark gray) zone of the matrix, may require priority action and aggressive response strategies. Threats found in the low-risk (medium gray) zone may not 
-require proactive management action beyond being placed in the risk register as part of the watch list or adding a contingency reserve. Similarly for opportunities, those in the high-risk (dark gray) zone, which may be obtained most easily and offer the greatest benefit, should be targeted first. Opportunities in the low-risk (medium gray) zone should be monitored.
+		- basically a Tool
+		- Grid between impact and probability of threat and opportunities
+		- helps  in calculating risk score	
+		- The risk score helps guide risk responses. 
+		- risks that have a negative impact on objectives,  may require priority action and aggressive response strategies.  
+		- Low risk scored threats does not require proactive management action 
+		- low scored threats are kept in register as part of the watch list or adding a contingency reserve. 
+		- Low risk scored Opportunities does not require proactive management action 
+		- low scored Opportunities are kept in register as part of the watch list or adding a contingency reserve. 
+		- low scored risk should be monitored throughout the project.
 
  .3 Risk data quality assessment
-
-Risk data quality assessment is a technique to evaluate the degree to which the data about risks is useful for risk management. 
-It involves examining the degree to which the risk is understood and the accuracy, quality, reliability, and integrity of the data about the risk.
-The use of low-quality risk data may lead to a qualitative risk analysis of little use to the project
+		- degree to which  the data is useful for the risk management processes.
+		- Risk data quality assessment is a technique to evaluate the degree to which the data about risks is useful for risk management. 
+		- It involves examining the degree to which the risk is understood and the accuracy, quality, reliability, and integrity of the data about the risk.
+		- The use of low-quality risk data may lead to a qualitative risk analysis of little use to the project
+		- Its better to get the quality data rather than wasting time and efforts.
 
  .4 Risk categorization
+		- Risk Breakdown structure
+		- Categorizes on the basis of sources
+		- Categorizes on the basis of areas of project affected
+		- Categorizes on the basis of project phases.
+		
  .5 Risk urgency assessment
-
-Risks requiring near-term responses may be considered more urgent to address. 
-Indicators of priority may include probability of detecting the risk, time to affect a risk response, symptoms and warning signs, and the risk rating.
+		- basically a process
+		- a process of planning a risk response againts most urgent risk.
+		- Filtered from the Prioritized list.
+		- these risk are expected to be moved directly to plan risk response process.
+		- Risks requiring near-term responses may be considered more urgent to address. 
+		- Indicators of priority may include 
+			-probability of detecting the risk, 
+			-time to affect a risk response, 
+			-symptoms and warning signs, and 
+			-the risk rating.
 
 6 Expert judgment
 
@@ -231,79 +424,114 @@ Project documents updates
 	  
 1.Risk register updates
 
-assessments of probability and impacts for each risk, 
-risk ranking or scores, 
-risk urgency information or risk categorization, 
-and a watch list for low probability risks or risks requiring further analysis
+		assessments of probability and impacts for each risk, 
+		risk ranking or scores, 
+		risk urgency information or risk categorization, 
+		and a watch list for low probability risks or risks requiring further analysis
 
 2.Assumptions log updates
 
-Modified Assumptions.
-Logs can be made separately or Assumption can be updated in the project scope statment.
+		Modified Assumptions.
+		Logs can be made separately or Assumption can be updated in the project scope statment.
+		
+3.Watch list(NON CRITICAL) is created, which contains low priority risk
+4.Risk break down strucutre
+5.List of urgent risk which needs to have response strategy
+6.List if risks whose impact needs to be calculated numerically.
+7.Useful for assessing whether project should be terminated or continue.
 
 
-
-Peroform Qauntitative 
+********************************************************************************************************
+********************************************************************************************************
+******************************Perform Qauntitative Risk Analyses ****************************************
+********************************************************************************************************
+********************************************************************************************************
 
 Perform Quantitative Risk Analysis is the process of numerically analyzing the effect of identified risks on overall project objectives. 
 
 Benefit
 The key benefit of this process is that it produces quantitative risk information to support decision making in order to reduce project uncertainty
 
-Perform Quantitative Risk Analysis is performed on risks that have been prioritized by the Perform Qualitative Risk Analysis process
-
-it may not be possible to execute the Perform Quantitative Risk Analysis process due to lack of sufficient data to develop appropriate models
+-objective
+-performed on risks that have been prioritized by the Perform Qualitative Risk Analysis process
+-Costly
+-more accurate
+-Calculate the amount at stake
+-it may not be possible to execute the Perform Quantitative Risk Analysis process due to lack of sufficient data to develop appropriate models
 
 The project manager should exercise expert judgment to determine the need for and the viability of quantitative risk analysis
 
 Inputs
- .1 Risk management plan
- .2 Cost management plan
- .3 Schedule management plan
- .4 Risk register
- .5 Enterprise environmental  
-  factors
- .6 Organizational process assets
+Risk management plan
+Cost management plan
+Schedule management plan
+Risk register
+Enterprise environmental factors
+Organizational process assets
 
 
 
 Tools & Techniques
- .1 Data gathering and representation techniques
+Data gathering and representation techniques
 
-	Interviewing: use 3 point estimation 
+	Interviewing:
+		-Uses experienced resources to gather information
+		-Uses historical data to quantify
+		-use 3 point estimation
+		
 	Probability distribution:
 		Continous distribution:use in simulation and modeling
-			Beta 
-			TRIANGULAR distribution
+			1.Beta 
+			2.TRIANGULAR distribution
+		Example: how many number of quesitons are between than 3 lines and 4 lines, less than 3 lines, greater than 4 lines in PMP example.
 		Discrete distribution
+			-Decision tree table
+			-useful for calculating the outcome of certain event.
+			-Rolling a dice is an example of discrete distribution.
+		Uniform distrinution:
+			-Rectangular distribution
+			-that has constant probability.
+			if there is no obvious value that is more likely than any other between specified high and low bounds, such as in 
+the early concept stage of design
 
 
  .2 Quantitative risk analysis and modeling techniques
 
 	Sensitivity Analysis:
-		A sensitivity analysis is a technique used to determine how different values of an independent variable impact a particular dependent variable under a given set of assumptions.
-		Sensitivity analysis helps to determine which risks have the most potential impact on the project. 
+		 
+		Sensitivity analysis helps to determine which risks have the most potential impact on the project.
+		technique used to determine the effect of uncertainity on different project Objectives 		
 		It helps to understand how the variations in project’s objectives correlate with variations in different uncertainties
-		Tornado diagram 
+		Calculates through Tornado diagram 
+			-A tornado diagram is a special type of bar chart used in sensitivity analysis
 	
 	Expected Monetory value
-		EVM is a ballpark figure that shows how much money a plaintiff can reasonably expect in mediation
-		Expected monetary value (EMV) analysis is a statistical concept that calculates the average outcome when the future includes scenarios that may or may not happen 
-		Decision Tree Example
+		- statistical concept
+		- EVM is a ballpark figure that shows how much money a plaintiff can reasonably expect in mediation
+		- Expected monetary value (EMV) analysis is a statistical concept that calculates the average outcome when the future includes scenarios that may or may not happen 
+		- Decision Tree Example
+		- The EMV of opportunities are generally expressed as positive values
+		- The EMV of Threats are generally expressed as negative values
 
 	Simulation and Modelling
 
-	 Simulations are typically performed using the Monte Carlo technique. In a simulation, the project model is computed many times (iterated), with the input values (e.g., cost estimates or activity durations) chosen at random for each iteration from the probability distributions of these variables.
-		Cummulative chart
+		-Simulations are typically performed using the Monte Carlo technique. 
+		-In a simulation, the project model is computed many times (iterated), with the input values (e.g., cost estimates or activity durations) chosen at random for each iteration from the probability distributions of these variables.
+		-Expressed as Cummulative chart
 
  .3 Expert judgment
 
 Outputs
  .1 Project documents updates
-		Risk Register
+		Risk Register will be updated as follows
 			Probabilistic analysis of the project. 
+				- Useful for calculating the contigency reserves
+				- These reserves can be useful for estimation for cost and schedule.
 			Prioritized Quantified Risks
+				- there is a 50% chance that can save our $10,000 if we are able to get software automation testing tool.
 			Probability of achieving cost and time objectives
+				- there is a 50% chance that can save our $10,000
+				- risk that can affect the critical path.
 			Trends in quantitative risk analysis results.	
 
 11.5 Plan Risk Response			
@@ -338,7 +566,7 @@ INPUTS
 
 
 FALLBACK PLAN
- A fallback plan can be developed for implementation if the selected strategy turns out not to be fully effective or if an accepted risk occurs.
+A fallback plan can be developed for implementation if the selected strategy turns out not to be fully effective or if an accepted risk occurs.
 
 Secondary risks are risks that arise as a direct result of implementing a risk response
 
@@ -346,52 +574,70 @@ contingency reserve is often allocated for time or cost
 
 
 Tools and Techniques
-.1 Strategies for negative risks or threats
+	Strategies for negative risks or threats
 
-Avoid:
-	
-project team acts to eliminate the threat or protect the project from its impact
-involves changing the project management plan to eliminate the threat entirely
-Some risks that arise early in the project can be avoided by clarifying requirements, obtaining information, improving communication, or acquiring expertise
+		Avoid:
+			-a risk response strategy
+			-Usually a good practices
+			-project team acts to eliminate the threat or protect the project from its impact
+			-involves changing the project management plan to eliminate the threat entirely
+			-Some risks that arise early in the project can be avoided by clarifying requirements, obtaining information, improving communication, or acquiring expertise
+			-PM may change the project objective that is in jeopardy e.g. chaging scope, extending the scedule, chaning the strategy
+			
+		Transfer:
+			-a risk response strategy
+			-shifting the impact of a threat to a third party 
+			-together with ownership of the response.
+			-It does not eliminate.
+			-Transferring does not mean disowning the risk by transferring it to a later project or another person without his or her knowledge or agreement.
+			- always involves payment of a risk premium to the party taking on the risk.
+			-Example insurance, performance bonds, warranties, guarantees , procurement related work
 
-Transfer:
-Risk transference is a risk response strategy whereby the project team shifts the impact of a threat to a third party, 
-together with ownership of the response.
-It does not eliminate.
-Transferring does not mean disowning the risk by transferring it to a later project or another person without his or her knowledge or agreement
+		Mitigate:
+			-Usually a good practices
+			-team acts to reduce the probability of occurrence or impact of a risk
+			-Adopting less complex processes, conducting more tests, or choosing a more stable supplier are examples of mitigation actions.
+			-Prototyping a model
+			_Adopting less complex processes, conducting more tests, or choosing a more stable supplier are examples of mitigation actions
+			
 
-Mitigate:
+		Accept:
+			-project team decides to acknowledge the risk and not take any action unless the risk occurs
+			-This strategy is adopted where it is not possible or cost-effective to address a specific risk in any other way
+			-Team descided not to change the PM Plan
+			-active acceptance strategy is to establish a contingency reserve, including amounts of time, money, or resources to handle the risks
+			-Passive strategy is to do not take actions unless it occurs and periodically checks the status .
 
-Risk mitigation is a risk response strategy whereby the project team acts to reduce the probability of occurrence or impact of a riskAccept:
-Adopting less complex processes, conducting more tests, or choosing a more stable supplier are examples of mitigation actions.
+	Strategies for positive risks or opportunities
 
-Accept:
-Risk acceptance is a risk response strategy whereby the project team decides to acknowledge the risk and not take any action unless the risk occurs
-This strategy is adopted where it is not possible or cost-effective to address a specific risk in any other way
-Team descided not to change the PM Plan
-active acceptance strategy is to establish a contingency reserve, including amounts of time, money, or resources to handle the risks
+		Exploit: (contrast with Avoid)
+			-Eliminate the impact of uncertainity
+			-ensure that the opportunity is realized
+			-The exploit strategy may be selected for risks with positive impacts where the organization wishes to ensure that the opportunity is realized.
+			******EXAMPLE**** Assigning most talented resource to the Project to reduce time to completions
+			-New Technology or technology upgrades
+			-
 
-.2 Strategies for positive risks or opportunities
+		Enhance: (contrast with Mitigation)
+			The enhance strategy is used to increase the probability and/or the positive impacts of an opportunity. 
+			Identifying and maximizing key drivers of these positive-impact risks may increase the probability of their occurrence. 
+			Examples of enhancing opportunities include adding more resources to an activity to finish early.
 
-Exploit: 
+		Share: (contrast with Transference)
+			Sharing a positive risk involves allocating some or all of the ownership of the opportunity to a third party who is best able to capture the opportunity for the benefit of the project. 
+			Examples of sharing actions include forming risk-sharing partnerships, teams, special-purpose companies, or joint ventures, 
+			which can be established with the express purpose of taking advantage of the opportunity so that all 
+			parties gain from their actions.
 
-The exploit strategy may be selected for risks with positive impacts where the organization wishes to ensure that the opportunity is realized.
-******EXAMPLE**** Assigning most talented resource to the Project to reduce shcedule overrun.
-
-Enhance. 
-The enhance strategy is used to increase the probability and/or the positive impacts of an opportunity. Identifying and maximizing key drivers of these positive-impact risks may increase the probability of their occurrence. Examples of enhancing opportunities include adding more resources to 
-an activity to finish early.
-
-Share. 
-Sharing a positive risk involves allocating some or all of the ownership of the opportunity to a third party who is best able to capture the opportunity for the benefit of the project. Examples of sharing actions include forming risk-sharing partnerships, teams, special-purpose companies, or joint ventures, 
-which can be established with the express purpose of taking advantage of the opportunity so that all 
-parties gain from their actions.
-
-Accept. Accepting an opportunity is being willing to take advantage of the opportunity if it arises, but 
-not actively pursuing it
+		Accept: 
+			Accepting an opportunity is being willing to take advantage of the opportunity if it arises, but 
+			not actively pursuing it
 
 
-.3 Contingent response strategies
+	Contingent response strategies
+		-Some responses are designed for use only if certain events occur.
+		-response plan that will only be executed under certain predefined conditions
+		
 .4 Expert judgment
 
 OUTPUT
